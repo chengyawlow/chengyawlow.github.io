@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+### News
++ Nov. 20 ~ 24, 2023 : Attending BMVC for an oral presentation (SlackedFace).
+
+
 ### Contact
 chengyawlow[at]{gmail.com; ibs.re.kr}
 

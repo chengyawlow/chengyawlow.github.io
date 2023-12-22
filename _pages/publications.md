@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-## Selected Publication
 To be updated.
 
 ## Complete Publication

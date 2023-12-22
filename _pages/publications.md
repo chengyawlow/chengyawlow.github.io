@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-My complete publication list is available on my <a href="https://scholar.google.com/citations?user=NgRN_6kAAAAJ&hl=en">Google Scholar profile</a>.
+Please find my complete publication list on <a href="https://scholar.google.com/citations?user=NgRN_6kAAAAJ&hl=en">my Google Scholar profile</a>.
 
 {% include base_path %}
 

@@ -16,4 +16,4 @@ redirect_from:
 
 
 ## Contact
-chengyawlow[at]{gmail.com; ibs.re.kr}
+chengyawlow@{gmail.com; ibs.re.kr}

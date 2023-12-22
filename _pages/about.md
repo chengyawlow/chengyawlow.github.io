@@ -8,5 +8,3 @@ redirect_from:
   - /about.html
 ---
 
-### Contact 
-

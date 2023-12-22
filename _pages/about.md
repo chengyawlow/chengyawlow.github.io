@@ -9,8 +9,9 @@ redirect_from:
 ---
 
 ### News
-+ Nov. 20 ~ 24, 2023: Attending BMVC, Aberdeen, UK for an oral presentation (SlackedFace).
-+ June 18 ~ 22, 2023: Attending CVPR, Vancouver, Canada  for a poster presentation.
++ Dec. 20 ~ 22, 2023: Attending KSC 2023 (by Undergraduate Intern, Kaleb) for an oral presentation (DCFace++). 
++ Nov. 20 ~ 24, 2023: Attending BMVC for an oral presentation (SlackedFace).
++ June 18 ~ 22, 2023: Attending CVPR for a poster presentation.
 
 
 ### Contact

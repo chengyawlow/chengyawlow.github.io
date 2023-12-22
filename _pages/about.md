@@ -7,3 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+### Contact 
+Email: chengyawlow@{gmail.com; ibs.re.kr}

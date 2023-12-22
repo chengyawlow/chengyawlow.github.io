@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Cheng Yaw, Low (Cheng)"
   avatar           : "profile.png"
-  bio              : "Research Associate, [Institute for Basic Science](https://maps.app.goo.gl/gfSXiZdwhs6n1s958)"
+  bio              : "Research Associate, Institute for Basic Science"
   location         :  Republic of Korea # "https://maps.app.goo.gl/gfSXiZdwhs6n1s958"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -182,7 +182,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true

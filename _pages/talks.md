@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+List of invited/visiting talks and conference presentations, sorted by presentation date.
+
 + **Bridging the Gap: Advancements in Biometrics for Forest Management**<br>
   <u>Visiting Talk</u>, University of Cambridge, UK, Nov. 29, 2023.
 
@@ -27,6 +29,6 @@ author_profile: true
   <u>Invited Talk</u>, Summer School Program, Gachon University, Republic of Korea, July 15, 2021.
   
 + **Revisiting Face Recognition and New Challenges**<br>
-  <u>Invited Speaker</u>, Malaysia-Germany Webinar – InnovationLabs.my, March 11, 2021.
+  <u>Invited Talk</u>, Malaysia-Germany Webinar – InnovationLabs.my, March 11, 2021.
  
 

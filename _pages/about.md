@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Cheng Yaw, Low (Cheng), serving as a research associate with the [Data Science Group, Institute for Basic Science, Republic of Korea]((https://ds.ibs.re.kr/)). 
+Hi, I'm Cheng Yaw, Low (Cheng), a research associate with the [Data Science Group, Institute for Basic Science, Republic of Korea](https://ds.ibs.re.kr/). 
 
 # News
 + Dec. 20 ~ 22, 2023: Attending the KSC 2023 (the undergraduate intern, Kaleb) for an oral presentation (DCFace++).

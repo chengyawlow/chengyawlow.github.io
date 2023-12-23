@@ -22,10 +22,10 @@ author_profile: true
 
 
 # Employment History
-+ Mar. 16, 2022 ~ : <u>Research Associate (Senior Researcher)</u>, Institute for Basic Science, Republic of Korea.
-+ Nov. 01, 2019 ~ Feb. 28, 2022: <u>Postdoctoral Researcher</u>, Yonsei University, Republic of Korea.
-+ Mar. 01, 2014 ~ Oct. 31, 2019: <u>Lecturer (Tenured)</u>, Faculty of Information Science and Technology, Malaysia.
++ Mar. 16, 2022 ~ : **Research Associate** (Senior Researcher), Institute for Basic Science, Republic of Korea.
++ Nov. 01, 2019 ~ Feb. 28, 2022: **Postdoctoral Researcher**, Yonsei University, Republic of Korea.
++ Mar. 01, 2014 ~ Oct. 31, 2019: **Lecturer** (Tenured), Faculty of Information Science and Technology, Malaysia.
   + On Ph.D. Study Leave from Mar. 2014 to Feb. 2018.
-+ Nov. 18, 2009 ~ Feb. 28, 2014: <u>Lecturer (Non-Tenured)</u>, Faculty of Information Science and Technology, Malaysia.
-+ Apr. 01, 2008 ~ Nov. 17, 2009: <u>Assistance Lecturer</u>, Faculty of Information Science and Technology, Malaysia.
-+ Apr. 01, 2005 ~ Mar. 31, 2008: <u>Tutor<u/>, Faculty of Information Science and Technology, Malaysia.
++ Nov. 18, 2009 ~ Feb. 28, 2014: **Lecturer** (Non-Tenured), Faculty of Information Science and Technology, Malaysia.
++ Apr. 01, 2008 ~ Nov. 17, 2009: **Assistance Lecturer**, Faculty of Information Science and Technology, Malaysia.
++ Apr. 01, 2005 ~ Mar. 31, 2008: **Tutor**, Faculty of Information Science and Technology, Malaysia.

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cheng Yaw, Low / Main"
+title                    : "Cheng Yaw, Low / Main Page"
 title_separator          : "-"
 name                     : &name "Cheng Yaw, Low"
 description              : &description "personal description"

@@ -4,7 +4,9 @@ title: "Academic Background"
 permalink: /biography/
 author_profile: true
 ---
- 
+
++ Academic Degree: Ph.D. in Electrical and Electronic Engineering  
+
 | Academic Degree        | Ph.D. in Electrical and Electronic Engineering                                  |   
 |------------------------|:--------------------------------------------------------------------------------|
 | **Dissertation Title** | Stacking-based Deep Neural Networks for Pattern Classification                  | 
@@ -15,8 +17,9 @@ author_profile: true
 
 | Academic Degree        | Master in Science (Computer Science)                                            |   
 |------------------------|:--------------------------------------------------------------------------------|
-| **Thesis Title**       | Offline Handwritten Signature Watermarking for Digital Document Authentication  | 
+| **Dissertation Title** | Offline Handwritten Signature Watermarking for Digital Document Authentication  | 
 | **Institution**        | Multimedia University, Malaysia                                                 |
 | **Advisor**            | Prof. Andrew Beng Jin Teoh                                                      | 
 | **Graduation Date**    | Nov. 18, 2009                                                                   | 
 
+# Employment History

@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Academic Background"
-permalink: /biography/
+permalink: /background/
 author_profile: true
 ---
 

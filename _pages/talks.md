@@ -22,7 +22,7 @@ List of invited/visiting talks and conference presentations, sorted by presentat
 + **Recognizability Embedding Enhancement for Very Low-Resolution Face Recognition and Quality Estimation**<br>
   <u>Conference Presentation (Poster)</u>, the IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), Vancouver, Canada, June 21, 2023.
 
-+ **Away from Unrecognizable Face Images**<br>
++ **Away from Unrecognizable Face Images for Empowered Embedding Learning**<br>
   <u>Internal Talk</u>, IBS Data Science Seminar, Institute for Basic Science, Republic of Korea, Apr. 28, 2023.
 
 + **New Challenges in Periocular Recognition and Surveillance Face Recognition**<br>

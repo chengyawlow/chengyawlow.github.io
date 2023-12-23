@@ -17,6 +17,7 @@ Five selected journal/conference articles published in recent five years, sorted
 + Jaewoo Park, <u>Cheng Yaw Low</u>, Andrew Beng Jin Teoh, "Divergent Angular Representation for Open-Set Image Recognition," IEEE Transactions on Image Processing (JCR IF 10.6), vol. 31, pp. 176-189, Nov. 2021, doi: 10.1109/TIP.2021.3128318.
   
 + <u>Cheng Yaw Low</u>, Andrew Beng Jin Teoh, and Jaewoo Park, "Stacking-Based Deep Neural Networks Deep Analytic Network for Pattern Classification," IEEE Transactions on Cybernetics (JCR IF 11.8), vol. 50, no. 12, pp. 5021-5034, Dec. 2020, doi: 10.1109/TCYB.2019.2908387.  
-  
+
+
 # Complete Publication List
 Please find my complete publication list on <a href="https://scholar.google.com/citations?user=NgRN_6kAAAAJ&hl=en">my Google Scholar profile</a>.

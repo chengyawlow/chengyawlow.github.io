@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Selected Publications"
+title: "Academic Background"
 permalink: /biography/
 author_profile: true
 ---

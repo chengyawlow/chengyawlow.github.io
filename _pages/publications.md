@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <!-- <span style="font-size: smaller;">(Five selected journal/conference articles published in recent five years, sorted by publication date.)</span> -->
-Five (5) selected journal/conference articles published in recent five (5) years, sorted by publication date:
+Five (5) selected journal/conference articles published in recent five (5) years, sorted by publication date.
 
 + <u>Cheng Yaw Low</u>, Jacky Chen Long Chai, Jaewoo Park, Kyeongjin An, Meeyoung Cha, "SlackedFace: Learning a Slacked Margin for Low-Resolution Face Recognition," in Proc. the 34th British Machine Vision Conference (BMVC), Nov. 2023.
   

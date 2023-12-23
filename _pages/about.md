@@ -12,13 +12,15 @@ Hi, I'm Cheng Yaw, Low (Cheng), a research associate with the [Data Science Grou
 
 # News
 + Dec. 20 ~ 22, 2023: Attending the KSC 2023 (the undergraduate intern, Kaleb) for an oral presentation.
-  - Relaxing Gender Constraint in 
-+ Nov. 29, 2023: Visiting the University of Cambridge for a project discussion (forest biometrics).
-+ Nov. 20 ~ 24, 2023: Attending the BMVC 2023 for an oral presentation (SlackedFace).
+  - Relaxing Gender Constraint for Identity-Consistent Face Synthesis
++ Nov. 29, 2023: Visiting the University of Cambridge for a project discussion.
+  - Bridging the Gap: Advancement in Biometrics for Forest Management
++ Nov. 20 ~ 24, 2023: Attending the BMVC 2023 for an oral presentation.
+  - SlackedFace: Learning a Slacked Margin for Low-Resolution Face Recognition
 + Nov. 03, 2023: Delivering a talk in the KAIST Urban X Seminar Series
   - Cultivating Greener Cities: Unveiling the Power of Forest Biometrics in Urbanization.
 + June 18 ~ 22, 2023: Attending the CVPR 2023 for a poster presentation.
-  - Recognizability Embedding Enhancement for Very Low-Resolution Face Recognition and Quality Estimation).
+  - Recognizability Embedding Enhancement for Very Low-Resolution Face Recognition and Quality Estimation.
 
 # Contact
 chengyawlow@{gmail.com; ibs.re.kr}

@@ -15,6 +15,9 @@ author_profile: true
   Invited Talk, KAIST Urban X Seminar Series, Korea Advanced Institute of Science & Technology (KAIST), Republic of Korea, Nov. 03, 2023.
 
 + **Empowered Embedding Learning for Very Low-Resolution Face Recognition**
-  Invited Talk, AXEL Summer Camp, Gwangju Institute of Science and Technology (GIST), Republic of Korea, July 20, 2023. 
+  Invited Talk, AXEL Summer Camp, Gwangju Institute of Science and Technology (GIST), Republic of Korea, July 20, 2023.
+
++ **Recognizability Embedding Enhancement for Very Low-Resolution Face Recognition and Quality Estimation**
+  Conference Presentation (Poster), the IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), Vancouver, Canada, June 21, 2023.
 
 + To be updated.

@@ -11,6 +11,8 @@ redirect_from:
 Hi, I'm Cheng Yaw, Low (Cheng), a research associate with the [Data Science Group, Institute for Basic Science, Republic of Korea](https://ds.ibs.re.kr/). My research primarily focuses on computer vision and biometrics, specializing in biometric recognition, biometric template protection, and synthetic biometric data generation. More recently, I have begun a new and exciting project in the field of forest biometrics, exploring innovative ways to apply my expertise in data science to environmental studies.
 
 # News
+<!-- <span style="font-size: smaller;">(in the recent six months)</span> -->
+
 + Dec. 20 ~ 22, 2023: Attending the KSC 2023 (the undergraduate intern, Kaleb) for an oral presentation.
   - Relaxing Gender Constraint for Identity-Consistent Face Synthesis
 + Nov. 29, 2023: Visiting the University of Cambridge for a project discussion.

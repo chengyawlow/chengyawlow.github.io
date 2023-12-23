@@ -18,6 +18,6 @@ Five selected journal/conference articles published in recent five years, sorted
   
 + <u>Cheng Yaw Low</u>, Andrew Beng Jin Teoh, and Jaewoo Park, "Stacking-Based Deep Neural Networks Deep Analytic Network for Pattern Classification," IEEE Transactions on Cybernetics (JCR IF 11.8), vol. 50, no. 12, pp. 5021-5034, Dec. 2020, doi: 10.1109/TCYB.2019.2908387.  
 
-
+<br>
 # Complete Publication List
 Please find my complete publication list on <a href="https://scholar.google.com/citations?user=NgRN_6kAAAAJ&hl=en">my Google Scholar profile</a>.

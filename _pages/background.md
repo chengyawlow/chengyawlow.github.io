@@ -15,7 +15,7 @@ author_profile: true
   + Thesis Title: Offline Handwritten Signature Watermarking for Digital Document Authentication
   + Advisor: Prof. Andrew Beng Jin Teoh
  
-+ Jun. 03, 2004: **Bachelor of Computer Science**
++ Jun. 03, 2004: **Bachelor of Information Technology (Computer Science)**
   + Institution: Multimedia University, Malaysia
   + Thesis Title: Geographic Information System for Flood Forecasting
   + Advisor: Prof. Meng Chew Leow

@@ -12,9 +12,6 @@ Hi, I'm Cheng Yaw Low (Cheng), a research associate with the [Data Science Group
 
 # News
 <!-- <span style="font-size: smaller;">(in the recent six months)</span> -->
-
-+ Feb. 01, 2024: Our journal article has been published in the IEEE TIFS.
-  - Self-Attentive Contrastive Learning for Conditioned Periocular and Face Biometrics.
 + Dec. 20 ~ 22, 2023: Attending the KSC 2023 (represented by our undergraduate intern, Kaleb) for an oral presentation.
   - Relaxing Gender Constraint for Identity-Consistent Face Synthesis
 + Nov. 29, 2023: Visiting the University of Cambridge for a project discussion.

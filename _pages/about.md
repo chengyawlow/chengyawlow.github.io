@@ -13,6 +13,8 @@ Hi, I'm Cheng Yaw Low (Cheng), a research associate with the [Data Science Group
 # News
 <!-- <span style="font-size: smaller;">(in the recent six months)</span> -->
 
++ Feb. 01, 2024 : Our journal article has been published in Vol. 19 of the IEEE Transactions on Information Forensics and Security (TIFS), on pages 3251-3264.
+  - Self-Attentive Contrastive Learning for Conditioned Periocular and Face Biometrics.
 + Dec. 20 ~ 22, 2023: Attending the KSC 2023 (the undergraduate intern, Kaleb) for an oral presentation.
   - Relaxing Gender Constraint for Identity-Consistent Face Synthesis
 + Nov. 29, 2023: Visiting the University of Cambridge for a project discussion.

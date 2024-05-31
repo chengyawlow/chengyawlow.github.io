@@ -12,9 +12,14 @@ Hi, I'm Cheng Yaw Low (Cheng), a research associate with the [Data Science Group
 
 # News
 <!-- <span style="font-size: smaller;">(in the recent six months)</span> -->
++ May 13, 2024: Delivering an invited talk (online) with Anhui University, China.
+  - Face Recognition in the Era of Synthetic Data
++ May 02, 2024: Visiting Max Planck Institute for Security and Privacy, Bochum, Germany.
+  - Unlocking Fairness: Progressing Beyond Bias in Generative Models
++ Apr. 29, 2024: Attending Machine Behavior Conference, Berlin, Germany. 
 + Apr. 11, 2024: Secured a position as one of the best teams in the Face Recognition Challenge in the Era of Synthetic Data, held in conjunction with the IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2024.
 + Feb. 01, 2024: Our journal article has been published in the IEEE TIFS.
-   - Self-Attentive Contrastive Learning for Conditioned Periocular and Face Biometrics.
+  - Self-Attentive Contrastive Learning for Conditioned Periocular and Face Biometrics.
 + Dec. 20 ~ 22, 2023: Attending the KSC 2023 (represented by our undergraduate intern, Kaleb Asfaw) for an oral presentation.
   - Relaxing Gender Constraint for Identity-Consistent Face Synthesis
 + Nov. 29, 2023: Visiting the University of Cambridge for a project discussion.

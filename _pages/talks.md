@@ -7,6 +7,8 @@ author_profile: true
 
 List of invited/visiting talks and conference presentations, sorted by presentation date.
 
++ **Face Recognition in the Era of Synthetic Data**<br>
+  <u>InvitedTalk</u>, Anhui University, China, May 13, 2024.
 + **Bridging the Gap: Advancements in Biometrics for Forest Management**<br>
   <u>Visiting Talk</u>, University of Cambridge, UK, Nov. 29, 2023.
 

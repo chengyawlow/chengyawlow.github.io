@@ -7,7 +7,7 @@ author_profile: true
 
 List of invited/visiting talks and conference presentations, sorted by presentation date.
 
-+ **Face Recognition in the Era of Synthetic Data**<br>
++ **Ensuring Privacy and Fairness: Face Recognition in the Era of Synthetic Data**<br>
   <u>Invited Talk</u>, Anhui University, China, May 13, 2024.
 
 + **Unlocking Fairness: Progressing Beyond Bias in Generative Models**<br>

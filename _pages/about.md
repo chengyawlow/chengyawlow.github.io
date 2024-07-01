@@ -21,11 +21,11 @@ Hi, I'm Cheng Yaw Low (Cheng), a research associate with the [Data Science Group
 + **Apr. 29, 2024**: Attending Machine Behavior Conference, Berlin, Germany. 
 + **Apr. 11, 2024**: Secured a position as one of the best teams in the [Face Recognition Challenge in the Era of Synthetic Data](https://codalab.lisn.upsaclay.fr/competitions/16970), held in conjunction with the IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2024.
 + **Feb. 01, 2024**: Our journal article has been published in the IEEE TIFS.
-  - Paper Title: Self-Attentive Contrastive Learning for Conditioned Periocular and Face Biometrics.
+  - Paper Title: [Self-Attentive Contrastive Learning for Conditioned Periocular and Face Biometrics](https://ieeexplore.ieee.org/document/10418204)
 + **Dec. 20 ~ 22, 2023**: Attending the KSC 2023 (represented by our undergraduate intern, Kaleb Asfaw) for an oral presentation.
-  - Paper Title: Relaxing Gender Constraint for Identity-Consistent Face Synthesis
+  - Paper Title: [Relaxing Gender Constraint for Identity-Consistent Face Synthesis](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11705225)
 + **Nov. 29, 2023**: Visiting the University of Cambridge for a project discussion.
-  - Paper Title: Bridging the Gap: Advancement in Biometrics for Forest Management
+  - Project Title: Bridging the Gap: Advancement in Biometrics for Forest Management
 + **Nov. 20 ~ 24, 2023**: Attending the BMVC 2023 for an oral presentation.
   - Paper Title: [SlackedFace: Learning a Slacked Margin for Low-Resolution Face Recognition](https://papers.bmvc2023.org/0282.pdf)
 + **Nov. 03, 2023**: Delivering a talk in the KAIST Urban X Seminar Series

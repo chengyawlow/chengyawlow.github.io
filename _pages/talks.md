@@ -7,6 +7,9 @@ author_profile: true
 
 List of invited/visiting talks and conference presentations, sorted by presentation date.
 
++ **Face Recognition Challenge in the Era of Synthetic Data**<br>
+  <u>Conference Presentation (Oral)</u>, the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, June 2024.
+  
 + **Ensuring Privacy and Fairness: Face Recognition in the Era of Synthetic Data**<br>
   <u>Invited Talk</u>, Anhui University, China, May 13, 2024.
 

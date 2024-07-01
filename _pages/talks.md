@@ -19,7 +19,7 @@ List of invited/visiting talks and conference presentations, sorted by presentat
 + **Bridging the Gap: Advancements in Biometrics for Forest Management**<br>
   <u>Visiting Talk</u>, University of Cambridge, UK, Nov. 29, 2023.
 
-+ **SlackedFace: Learning a Slacked Margin for Low-Resolution Face Recognition**<br>
++ **[SlackedFace: Learning a Slacked Margin for Low-Resolution Face Recognition](https://papers.bmvc2023.org/0282.pdf)**<br>
   <u>Conference Presentation (Oral)</u>, the 34th British Machine Vision Conference (BMVC), Aberdeen, UK, Nov. 23, 2023. 
 
 + **Cultivating Greener Cities: Unveiling the Power of Forest Biometrics in Urbanization**<br>

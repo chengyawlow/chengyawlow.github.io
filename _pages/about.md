@@ -13,7 +13,7 @@ Hi, I'm Cheng Yaw Low (Cheng), a research associate with the [Data Science Group
 # News
 <!-- <span style="font-size: smaller;">(in the recent six months)</span> -->
 + **June 18, 2024**: Attending the CVPR 2024 for an oral presentation.
-  - Paper Title: Face Recognition Challenge in the Era of Synthetic Data
+  - Paper Title: [Face Recognition Challenge in the Era of Synthetic Data](https://openaccess.thecvf.com/content/WACV2024W/FRCSyn/papers/Melzi_FRCSyn_Challenge_at_WACV_2024_Face_Recognition_Challenge_in_the_WACVW_2024_paper.pdf)
 + **May 13, 2024**: Delivering an invited talk (online) with Anhui University, China.
   - Talk Title: Ensuring Privacy and Fairness: Face Recognition in the Era of Synthetic Data
 + **May 02, 2024**: Visiting the Max Planck Institute for Security and Privacy, Bochum, Germany.

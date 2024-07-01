@@ -28,7 +28,7 @@ List of invited/visiting talks and conference presentations, sorted by presentat
 + **Empowered Embedding Learning for Very Low-Resolution Face Recognition**<br>
   <u>Invited Talk</u>, AXEL Summer Camp, Gwangju Institute of Science and Technology (GIST), Republic of Korea, July 20, 2023.
 
-+ **Recognizability Embedding Enhancement for Very Low-Resolution Face Recognition and Quality Estimation**<br>
++ **[Recognizability Embedding Enhancement for Very Low-Resolution Face Recognition and Quality Estimation](https://openaccess.thecvf.com/content/CVPR2023/papers/Chai_Recognizability_Embedding_Enhancement_for_Very_Low-Resolution_Face_Recognition_and_Quality_CVPR_2023_paper.pdf)**<br>
   <u>Conference Presentation (Poster)</u>, the IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), Vancouver, Canada, June 21, 2023.
 
 + **Away from Unrecognizable Face Images for Empowered Embedding Learning**<br>

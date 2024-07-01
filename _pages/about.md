@@ -31,7 +31,7 @@ Hi, I'm Cheng Yaw Low (Cheng), a research associate with the [Data Science Group
 + **Nov. 03, 2023**: Delivering a talk in the KAIST Urban X Seminar Series
   - Talk Title: Cultivating Greener Cities: Unveiling the Power of Forest Biometrics in Urbanization.
 + **June 18 ~ 22, 2023**: Attending the CVPR 2023 for a poster presentation.
-  - Paper Title: Recognizability Embedding Enhancement for Very Low-Resolution Face Recognition and Quality Estimation.
+  - Paper Title: [Recognizability Embedding Enhancement for Very Low-Resolution Face Recognition and Quality Estimation](https://openaccess.thecvf.com/content/CVPR2023/papers/Chai_Recognizability_Embedding_Enhancement_for_Very_Low-Resolution_Face_Recognition_and_Quality_CVPR_2023_paper.pdf)
 
 # Contact
 chengyawlow@{gmail.com; ibs.re.kr}

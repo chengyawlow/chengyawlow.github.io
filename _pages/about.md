@@ -27,7 +27,7 @@ Hi, I'm Cheng Yaw Low (Cheng), a research associate with the [Data Science Group
 + **Nov. 29, 2023**: Visiting the University of Cambridge for a project discussion.
   - Paper Title: Bridging the Gap: Advancement in Biometrics for Forest Management
 + **Nov. 20 ~ 24, 2023**: Attending the BMVC 2023 for an oral presentation.
-  - Paper Title: SlackedFace: Learning a Slacked Margin for Low-Resolution Face Recognition
+  - Paper Title: [SlackedFace: Learning a Slacked Margin for Low-Resolution Face Recognition](https://papers.bmvc2023.org/0282.pdf)
 + **Nov. 03, 2023**: Delivering a talk in the KAIST Urban X Seminar Series
   - Talk Title: Cultivating Greener Cities: Unveiling the Power of Forest Biometrics in Urbanization.
 + **June 18 ~ 22, 2023**: Attending the CVPR 2023 for a poster presentation.

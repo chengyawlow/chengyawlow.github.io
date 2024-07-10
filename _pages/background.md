@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 + Feb. 26, 2018: **Ph.D. in Electrical and Electronic Engineering**
-  + Institution: Yonsei University, Republic of Kore
+  + Institution: Yonsei University, Republic of Korea
   + Dissertation Title: Stacking-based Deep Neural Networks for Pattern Classification
   + Advisor: Prof. Andrew Beng Jin Teoh
     
@@ -22,7 +22,7 @@ author_profile: true
 
 
 # Employment History
-+ Mar. 16, 2022 ~ : **Research Associate** (Senior Researcher), Institute for Basic Science, Republic of Korea.
++ Mar. 16, 2022 ~ Present: **Research Associate** (Senior Researcher), Institute for Basic Science, Republic of Korea.
 + Nov. 01, 2019 ~ Feb. 28, 2022: **Postdoctoral Researcher**, Yonsei University, Republic of Korea.
 + Mar. 01, 2014 ~ Oct. 31, 2019: **Lecturer** (Tenured), Faculty of Information Science and Technology, Malaysia.
   + On Ph.D. Study Leave from Mar. 2014 to Feb. 2018.

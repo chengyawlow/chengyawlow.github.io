@@ -12,7 +12,7 @@ Hi, I'm Cheng Yaw Low (Cheng), a research associate with the [Data Science Group
 
 # News
 <!-- <span style="font-size: smaller;">(in the recent six months)</span> -->
-+ **June 25, 2024**: Our journal article has been accepted by the IEEE TIFS (IF 6.3).
++ **June 25, 2024**: Our journal article has been accepted by the IEEE TIFS (SCIE, IF 6.3).
   - Paper Title: Uncertainty-Aware Face Embedding with Contrastive Learning for Open-Set Evaluation
 + **June 18, 2024**: Attending the CVPR 2024 for an oral presentation.
   - Paper Title: [Face Recognition Challenge in the Era of Synthetic Data](https://openaccess.thecvf.com/content/WACV2024W/FRCSyn/papers/Melzi_FRCSyn_Challenge_at_WACV_2024_Face_Recognition_Challenge_in_the_WACVW_2024_paper.pdf)
@@ -22,7 +22,7 @@ Hi, I'm Cheng Yaw Low (Cheng), a research associate with the [Data Science Group
   - Talk Title: Unlocking Fairness: Progressing Beyond Bias in Generative Models
 + **Apr. 29, 2024**: Attending Machine Behavior Conference, Berlin, Germany. 
 + **Apr. 11, 2024**: Secured a position as one of the best teams in the [Face Recognition Challenge in the Era of Synthetic Data](https://codalab.lisn.upsaclay.fr/competitions/16970), held in conjunction with the IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2024.
-+ **Feb. 01, 2024**: Our journal article has been published in the IEEE TIFS (IF 6.3).
++ **Feb. 01, 2024**: Our journal article has been published in the IEEE TIFS (SCIE, IF 6.3).
   - Paper Title: [Self-Attentive Contrastive Learning for Conditioned Periocular and Face Biometrics](https://ieeexplore.ieee.org/document/10418204)
 + **Dec. 20 ~ 22, 2023**: Attending the KSC 2023 (represented by our undergraduate intern, Kaleb Asfaw) for an oral presentation.
   - Paper Title: [Relaxing Gender Constraint for Identity-Consistent Face Synthesis](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11705225)

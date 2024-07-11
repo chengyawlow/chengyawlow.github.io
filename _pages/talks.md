@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-List of invited/visiting talks and conference presentations, sorted by presentation date.
+List of invited/visiting talks and conference presentations in recent three (3) years, sorted by date.
 
 + **[Face Recognition Challenge in the Era of Synthetic Data](https://openaccess.thecvf.com/content/WACV2024W/FRCSyn/papers/Melzi_FRCSyn_Challenge_at_WACV_2024_Face_Recognition_Challenge_in_the_WACVW_2024_paper.pdf)**<br>
   <u>Conference Presentation (Oral)</u>, the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, June 2024.

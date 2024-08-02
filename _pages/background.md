@@ -27,5 +27,5 @@ author_profile: true
 + Mar. 01, 2014 ~ Oct. 31, 2019: **Lecturer** (Tenured), Faculty of Information Science and Technology, Malaysia.
   + On Ph.D. Study Leave from Mar. 2014 to Feb. 2018.
 + Nov. 18, 2009 ~ Feb. 28, 2014: **Lecturer** (Non-Tenured), Faculty of Information Science and Technology, Malaysia.
-+ Apr. 01, 2008 ~ Nov. 17, 2009: **Assistance Lecturer**, Faculty of Information Science and Technology, Malaysia.
++ Apr. 01, 2008 ~ Nov. 17, 2009: **Assistant Lecturer**, Faculty of Information Science and Technology, Malaysia.
 + Apr. 01, 2005 ~ Mar. 31, 2008: **Tutor**, Faculty of Information Science and Technology, Malaysia.

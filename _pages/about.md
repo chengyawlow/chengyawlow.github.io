@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Cheng Yaw Low (Cheng), a research associate with the [Data Science Group, Institute for Basic Science, Republic of Korea](https://ds.ibs.re.kr/). My research interest primarily focuses on computer vision and biometrics, with specializations in biometric recognition, large-scale synthetic biometric data generation, and biometric template protection. Recently, my team has initiated several new projects, including forest biometrics using remote sensing and multimodal harmful memes detection.
+Hi, I'm Cheng Yaw Low (Cheng), a research associate with the [Data Science Group, Institute for Basic Science, Republic of Korea](https://ds.ibs.re.kr/). My research interest primarily focuses on computer vision and biometrics, with specializations in biometric recognition, large-scale synthetic biometric data generation, and biometric template protection. Recently, my team has initiated several new projects, including forest biometrics using remote sensing and multimodal harmful memes detection for social bias mitigation.
 
 # News
 <!-- <span style="font-size: smaller;">(in the recent six months)</span> -->

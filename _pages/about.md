@@ -12,6 +12,7 @@ Hi, I'm Cheng Yaw Low (Cheng), a research associate with the [Data Science Group
 
 # News
 <!-- <span style="font-size: smaller;">(in the recent six months)</span> -->
++ **Sep. 07, 2024**: Secured a position as one of the winning teams in the [Computer Vision for Ecology - Marine Species Classification Challenge](https://eval.ai/web/challenges/challenge-page/2292/overview), held in conjunction with the European Conference on Computer Vision (ECCV) 2024.
 + **June 25, 2024**: Our journal article has been accepted by the IEEE TIFS (SCIE, IF 6.3).
   - Paper Title: Uncertainty-Aware Face Embedding with Contrastive Learning for Open-Set Evaluation
 + **June 18, 2024**: Attending the CVPR 2024 for an oral presentation.
@@ -21,7 +22,7 @@ Hi, I'm Cheng Yaw Low (Cheng), a research associate with the [Data Science Group
 + **May 02, 2024**: Visiting the Max Planck Institute for Security and Privacy, Bochum, Germany.
   - Talk Title: Unlocking Fairness: Progressing Beyond Bias in Generative Models
 + **Apr. 29, 2024**: Attending Machine Behavior Conference, Berlin, Germany. 
-+ **Apr. 11, 2024**: Secured a position as one of the best teams in the [Face Recognition Challenge in the Era of Synthetic Data](https://codalab.lisn.upsaclay.fr/competitions/16970), held in conjunction with the IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2024.
++ **Apr. 11, 2024**: Secured a position as one of the winning teams in the [Face Recognition Challenge in the Era of Synthetic Data](https://codalab.lisn.upsaclay.fr/competitions/16970), held in conjunction with the IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2024.
 + **Feb. 01, 2024**: Our journal article has been published in the IEEE TIFS (SCIE, IF 6.3).
   - Paper Title: [Self-Attentive Contrastive Learning for Conditioned Periocular and Face Biometrics](https://ieeexplore.ieee.org/document/10418204)
 + **Dec. 20 ~ 22, 2023**: Attending the KSC 2023 (represented by our undergraduate intern, Kaleb Asfaw) for an oral presentation.

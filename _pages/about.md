@@ -13,7 +13,7 @@ Hi, I'm Cheng Yaw Low (Cheng), a research associate with the [Data Science Group
 # News
 <!-- <span style="font-size: smaller;">(in the recent six months)</span> -->
 + **Sep. 23, 2024**: Delivering an invited talk (special lecture series in AI) with Seoul National University of Science and Technology (SeoulTech), South Korea.
-  - Paper Title: Ensuring Privacy and Fairness: Face Recognition in the Era of Synthetic Data
+  - Talk Title: Ensuring Privacy and Fairness: Face Recognition in the Era of Synthetic Data
 + **Sep. 07, 2024**: Securing a position as one of the winning teams in the [Computer Vision for Ecology - Marine Species Classification Challenge](https://eval.ai/web/challenges/challenge-page/2292/overview), held in conjunction with the European Conference on Computer Vision (ECCV) 2024.
 + **June 25, 2024**: Our journal article has been accepted by the IEEE TIFS (SCIE, IF 6.3).
   - Paper Title: Uncertainty-Aware Face Embedding with Contrastive Learning for Open-Set Evaluation

@@ -12,6 +12,7 @@ Hi, I'm Cheng Yaw Low (Cheng), a research associate with the [Data Science Group
 
 # News
 <!-- <span style="font-size: smaller;">(in the recent six months)</span> -->
++ **Nov. 22, 2024**: Joining the Max Planck Institute for Security and Privacy (MPI-SPI), Germany, starting February 2025.
 + **Sep. 23, 2024**: Delivering an invited talk (special lecture series in AI) with Seoul National University of Science and Technology (SeoulTech), South Korea.
   - Talk Title: Ensuring Privacy and Fairness: Face Recognition in the Era of Synthetic Data
 + **Sep. 07, 2024**: Securing a position as one of the winning teams in the [Computer Vision for Ecology - Marine Species Classification Challenge](https://eval.ai/web/challenges/challenge-page/2292/overview), held in conjunction with the European Conference on Computer Vision (ECCV) 2024.

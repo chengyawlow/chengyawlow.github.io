@@ -12,6 +12,8 @@ Hi, I'm Cheng Yaw Low (Cheng), a researcher with the [Data Science for Humanity,
 
 # News
 <!-- <span style="font-size: smaller;">(in the recent six months)</span> -->
++ **Mar. 14, 2025**: Our journal article has been accepted by the Information Fusion (SCIE, IF 14.8).
+  - Paper Title: [Second FRCSyn-onGoing: Winning Solutions and Post-Challenge Analysis to Improve Face Recognition with Synthetic Data](https://www.sciencedirect.com/science/article/pii/S1566253525001721)
 + **Nov. 22, 2024**: Joining the Max Planck Institute for Security and Privacy (MPI-SPI), Germany, starting February 2025.
 + **Sep. 23, 2024**: Delivering an invited talk (special lecture series in AI) with Seoul National University of Science and Technology (SeoulTech), South Korea.
   - Talk Title: Ensuring Privacy and Fairness: Face Recognition in the Era of Synthetic Data

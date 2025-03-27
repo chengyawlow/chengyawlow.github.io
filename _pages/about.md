@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Cheng Yaw Low (Cheng), a researcher with the [Data Science for Humanity, Max Planck Institute for Security and Privacy (MPI-SP)](https://www.mpi-sp.org/cha). My research interest primarily focuses on computer vision and biometrics, with specializations in biometric recognition, large-scale synthetic biometric data generation, and biometric template protection. Recently, my team has initiated several new projects, including forest biometrics using remote sensing and multimodal harmful memes detection for social bias mitigation.
+Hi, I'm Cheng Yaw Low (Cheng), a researcher with the [Data Science for Humanity, Max Planck Institute for Security and Privacy (MPI-SP), led by Prof. Meeyoung Cha](https://www.mpi-sp.org/cha). My research interest primarily focuses on computer vision and biometrics, with specializations in biometric recognition, large-scale synthetic biometric data generation, and biometric template protection. Recently, my team has initiated several new projects, including forest biometrics using remote sensing and multimodal harmful memes detection for social bias mitigation.
 
 # News
 <!-- <span style="font-size: smaller;">(in the recent six months)</span> -->

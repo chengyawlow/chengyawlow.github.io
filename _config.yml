@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Cheng Yaw, Low (Cheng)"
   avatar           : "myprofile_new.jpeg"
-  bio              : "Research Associate, Institute for Basic Science, Data Science Group"
-  location         :  Republic of Korea # "https://maps.app.goo.gl/gfSXiZdwhs6n1s958"
+  bio              : "Data Science for Humanity, Max Planck Institute for Security and Privacy (MPI-SP)"
+  location         : Bochum, Germany # "https://maps.app.goo.gl/gfSXiZdwhs6n1s958"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=NgRN_6kAAAAJ&hl=en"

@@ -12,6 +12,8 @@ Hi, I'm Cheng Yaw Low (Cheng), a researcher with the [Data Science for Humanity,
 
 # News
 <!-- <span style="font-size: smaller;">(in the recent six months)</span> -->
++ **July 7, 2025**: Will be joining Changwon National University, South Korea, as an Assistant Professor, with the official start date on September 1, 2025.
++ **July 4, 2025**: Delivering a Guest Lecture on Responsible AI Ruhr University Bochum (RUB), Germany.
 + **Mar. 27, 2025**: Awarded the Amazon Research Award (ARA) – Fall 2024 Cycle (Sustainability)
 + **Mar. 14, 2025**: Our journal article has been accepted by the Information Fusion (SCIE, IF 14.8).
   - Paper Title: [Second FRCSyn-onGoing: Winning Solutions and Post-Challenge Analysis to Improve Face Recognition with Synthetic Data](https://www.sciencedirect.com/science/article/pii/S1566253525001721)

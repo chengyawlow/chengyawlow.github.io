@@ -7,14 +7,20 @@ author_profile: true
 
 ## Students & Lab Members
 
-+ **(Name)**  
-  + Role: Ph.D. Student / Master’s Student / Undergraduate Researcher  
-  + Research Area: XXX
++ **Sarvar Juraev**  
+  + Role: Master’s Student 
+  + Research Area: -
+  + Enrollment: March 2026
 
-+ **(Name)**  
-  + Role: Research Intern  
-  + Research Area: XXX
-
++ **Zhang Ming **
+  + Role: Ph.D. Student (Global)  
+  + Research Area: -
+  + Enrollment: September 2025
+ 
++ **Zhang Qun **  
+  + Role: Ph.D. Student (Global)  
+  + Research Area: -
+  + Enrollment: September 2025
 
 ## Research Mentors
 

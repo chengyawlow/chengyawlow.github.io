@@ -52,11 +52,11 @@ Talks
 -->
 
 + **Semester 1, 2026**
-  + [Undergraduate] Introduction to Artificial Intelligence for Science & Engineering 자연공학계열을위한인공지능입문 
+  + [ Undergraduate ] Introduction to Artificial Intelligence for Science & Engineering 자연공학계열을위한인공지능입문 
   + TBD
        
 + **Semester 2, 2025**
-  + [Undergradute] Introduction to Artificial Intelligence 인공지능입문
-  + [Graduate] AI-Based Behavior Analysis 인공지능기반행동분석론 
-  + [Graduate] Anomaly Behavior Detection and Applications 이상행동탐지및응용 
+  + [ Undergradute ] Introduction to Artificial Intelligence 인공지능입문
+  + [ Graduate ] AI-Based Behavior Analysis 인공지능기반행동분석론 
+  + [ Graduate ] Anomaly Behavior Detection and Applications 이상행동탐지및응용 
 

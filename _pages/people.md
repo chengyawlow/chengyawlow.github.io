@@ -12,12 +12,12 @@ author_profile: true
   + Research Area: -
   + Enrollment: March 2026
 
-+ **Zhang Ming **
++ **Zhang Ming**
   + Role: Ph.D. Student (Global)  
   + Research Area: -
   + Enrollment: September 2025
  
-+ **Zhang Qun **  
++ **Zhang Qun**  
   + Role: Ph.D. Student (Global)  
   + Research Area: -
   + Enrollment: September 2025

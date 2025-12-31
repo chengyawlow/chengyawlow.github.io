@@ -5,8 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
-
+<!--
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -45,13 +44,17 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
+  Service and leadership
+======
+* Currently signed in to 43 different slack teams
+
+-->
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+

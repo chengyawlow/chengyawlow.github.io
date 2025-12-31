@@ -84,10 +84,8 @@ author:
   avatar           : "myprofile_new.jpeg"
   bio              : "Department of AI Convergence Engineering, Changwon National University" # "Data Science for Humanity, Max Planck Institute for Security and Privacy (MPI-SP)"
   location         : Republic of Korea # "https://maps.app.goo.gl/gfSXiZdwhs6n1s958"
-  email            : chengyawlow@changwon.ac.kr
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=NgRN_6kAAAAJ&hl=en"
-  email            :
   researchgate     : "https://www.researchgate.net/profile/Cheng-Yaw-Low"
   uri              :
   bitbucket        :
@@ -115,7 +113,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  email            : chengyawlow@changwon.ac.kr
 
 # Reading Files
 include:

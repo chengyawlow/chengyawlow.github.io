@@ -59,6 +59,18 @@ Talks
   + (Undergraduate) - Introduction to Artificial Intelligence 인공지능입문
   + (Graduate) - AI-Based Behavior Analysis 인공지능기반행동분석론
   + (Graduate) - Anomaly Behavior Detection and Applications 이상행동탐지및응용
+ 
+  + **Introduction to Artificial Intelligence**  
+  *Level:* Undergraduate  
+  *Korean:* 인공지능입문  
+
+- **AI-Based Behavior Analysis**  
+  *Level:* Graduate (Master’s)  
+  *Korean:* 인공지능기반행동분석론  
+
+- **Anomaly Behavior Detection and Applications**  
+  *Level:* Graduate (Master’s)  
+  *Korean:* 이상행동탐지및응용
 
   
 

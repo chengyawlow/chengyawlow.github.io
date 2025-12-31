@@ -1,9 +1,22 @@
 ---
 layout: archive
-title: "Research Mentors"
+title: "People"
 permalink: /mentors/
 author_profile: true
 ---
+
+## Students & Lab Members
+
++ **(Name)**  
+  + Role: Ph.D. Student / Master’s Student / Undergraduate Researcher  
+  + Research Area: XXX
+
++ **(Name)**  
+  + Role: Research Intern  
+  + Research Area: XXX
+
+
+## Research Mentors
 
 + [**Prof. Meeyoung Cha 차미영**](https://www.mpi-sp.org/cha)<br>
   + Position : Scientific Director, Max Planck Institute for Security and Privacy (MPI-SP), Germany.

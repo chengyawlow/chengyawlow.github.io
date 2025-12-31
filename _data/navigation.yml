@@ -9,5 +9,11 @@ main:
   - title: "Talks"
     url: /talks/
 
+  - title: "People"
+    url: /mentors/
+
+  - title: "Teaching"
+    url: /mentors/
+
   - title: "Mentors"
     url: /mentors/

@@ -86,7 +86,7 @@ author:
   location         : Republic of Korea # "https://maps.app.goo.gl/gfSXiZdwhs6n1s958"
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=NgRN_6kAAAAJ&hl=en"
-  researchgate     : "https://www.researchgate.net/profile/Cheng-Yaw-Low"
+  researchgate     : # "https://www.researchgate.net/profile/Cheng-Yaw-Low"
   uri              :
   bitbucket        :
   codepen          :
@@ -101,7 +101,7 @@ author:
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "chengyawlow"
-  orcid            : "http://orcid.org/0000-0002-6764-0614"
+  orcid            : # "http://orcid.org/0000-0002-6764-0614"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

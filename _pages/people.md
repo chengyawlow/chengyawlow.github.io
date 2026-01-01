@@ -13,14 +13,26 @@ author_profile: true
   + Enrollment: March 2026
 
 + **Zhang Ming**
-  + Role: Ph.D. Student (Global)  
+  + Role: Ph.D. Student 
   + Research Area: -
   + Enrollment: September 2025
  
 + **Zhang Qun**  
-  + Role: Ph.D. Student (Global)  
+  + Role: Ph.D. Student 
   + Research Area: -
   + Enrollment: September 2025
+ 
++ ![](/images/people/sarvar_juraev.jpg){: width="120"}  
+  **Sarvar Juraev**  |  Master’s Student  
+  Enrollment: March 2026
+
++ ![](/images/people/zhang_ming.jpg){: width="120"}  
+  **Zhang Ming**  |  Ph.D. Student  
+  Enrollment: September 2025
+
++ ![](/images/people/zhang_qun.jpg){: width="120"}  
+  **Zhang Qun**  |  Ph.D. Student  
+  Enrollment: September 2025
 
 ## Research Mentors
 

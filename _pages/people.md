@@ -13,7 +13,7 @@ author_profile: true
 + **Zhang Ming**, Ph.D. Student  
   Enrollment: September 2025
 
-+ **Zhang Qun**, &nbsp; Ph.D. Student  
++ **Zhang Qun**, Ph.D. Student  
   Enrollment: September 2025
 
 ## Open Positions

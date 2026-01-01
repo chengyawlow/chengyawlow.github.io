@@ -17,7 +17,7 @@ author_profile: true
   Enrollment: September 2025
 
 ## Open Positions
-The Responsible AI Innovation (RAIN) Lab welcomes applications from motivated postdoctoral researchers, Ph.D. students, Master’s students, and research interns.  
+The Responsible AI Innovation (RAIN) Laboratory welcomes applications from motivated postdoctoral researchers, Ph.D. students, Master’s students, and research interns.  
 (Contact: chengyawlow@changwon.ac.kr)
 
 ## Research Mentors

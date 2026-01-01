@@ -34,6 +34,10 @@ author_profile: true
   **Zhang Qun**  |  Ph.D. Student  
   Enrollment: September 2025
 
+## Open Positions
+The Responsible AI Innovation (RAIN) Lab welcomes applications from motivated postdoctoral researchers, Ph.D. students, Master’s students, and research interns.  
+(Contact: chengyawlow@changwon.ac.kr)
+
 ## Research Mentors
 
 + [**Prof. Meeyoung Cha 차미영**](https://www.mpi-sp.org/cha)<br>

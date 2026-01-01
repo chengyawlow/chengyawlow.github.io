@@ -7,13 +7,13 @@ author_profile: true
 
 ## Students & Lab Members
 
-+ **Sarvar Juraev** &nbsp; | &nbsp; Master's Student  
++ **Sarvar Juraev**, Master's Student  
   Enrollment: September 2025
   
-+ **Zhang Ming** &nbsp; | &nbsp; Ph.D. Student  
++ **Zhang Ming**, Ph.D. Student  
   Enrollment: September 2025
 
-+ **Zhang Qun** &nbsp; | &nbsp; Ph.D. Student  
++ **Zhang Qun**, &nbsp; Ph.D. Student  
   Enrollment: September 2025
 
 ## Open Positions

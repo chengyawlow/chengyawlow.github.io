@@ -42,4 +42,4 @@ author_profile: true
   
 + [**Prof. Andrew Beng Jin Teoh**](https://ee.yonsei.ac.kr/faculty/member.do?mode=view&userId=PNDOpHWNFR2NJhjZkX8ROA%3D%3D)<br>
   + Affiliation: Professor, School of Electrical and Electronic Engineering, Yonsei University, Republic of Korea.<br>
-  + Role: Research Advisor; Ph.D. and Master Advisor
+  + Role: Research Advisor; Ph.D. and Master's Advisor

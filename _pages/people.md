@@ -7,8 +7,9 @@ author_profile: true
 
 ## Students & Lab Members
 
-+ **Sarvar Juraev** <br><br>| <br><br> Master’s Student <br><br> | <br><br> Enrollment: March 2026
-
++ **Sarvar Juraev**  | Master's Student  
+  Enrollment: September 2025
+  
 + **Zhang Ming**  |  Ph.D. Student  
   Enrollment: September 2025
 

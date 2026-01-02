@@ -5,9 +5,6 @@ permalink: /people/
 author_profile: true
 ---
 
-## Open Positions
-The RAIN Lab welcomes applications from motivated postdoctoral researchers, Ph.D. students, Master’s students, and research interns (Contact: chengyawlow@changwon.ac.kr).
-
 ## Students & Lab Members
 
 + **Sarvar Juraev**, Master's Student  
@@ -18,6 +15,9 @@ The RAIN Lab welcomes applications from motivated postdoctoral researchers, Ph.D
 
 + **Zhang Qun**, Ph.D. Student  
   Enrollment: September 2025
+
+## Open Positions
+The RAIN Lab welcomes applications from motivated postdoctoral researchers, Ph.D. students, Master’s students, and research interns (Contact: chengyawlow@changwon.ac.kr).
 
 ## Research Mentors
 

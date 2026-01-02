@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Cheng-Yaw Low | 류정열"
   avatar           : "myprofile_new.jpeg"
-  bio              : "Responsible AI Innovation Laboratory (RAIN Lab, 책임 인공지능 혁신 연구실), Department of AI Convergence Engineering, Changwon National University" # "Data Science for Humanity, Max Planck Institute for Security and Privacy (MPI-SP)"
+  bio              : "Responsible AI Innovation Laboratory (RAIN Lab | 책임 인공지능 혁신 연구실)" # "Data Science for Humanity, Max Planck Institute for Security and Privacy (MPI-SP)"
+  affiliation      : "Department of AI Convergence Engineering, Changwon National University"
   location         : Republic of Korea # "https://maps.app.goo.gl/gfSXiZdwhs6n1s958"
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=NgRN_6kAAAAJ&hl=en"

@@ -16,8 +16,7 @@ author_profile: true
 + **Zhang Qun**, Ph.D. Student  
   Enrollment: September 2025
 
-## Open Positions
-The RAIN Lab welcomes applications from motivated postdoctoral researchers, Ph.D. students, Master’s students, and research interns (Contact: chengyawlow@changwon.ac.kr).
++ **Open Positions** - RAIN Lab welcomes applications from motivated postdoctoral researchers, Ph.D. students, Master’s students, and research interns (Contact: chengyawlow@changwon.ac.kr).
 
 ## Research Mentors
 

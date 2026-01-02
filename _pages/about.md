@@ -85,6 +85,6 @@ Hi, I'm Cheng Yaw Low (Cheng), a researcher with the [Data Science for Humanity,
 
 </details>
 
-<br>
+
 # Contact
 + Email: chengyawlow@changwon.ac.kr

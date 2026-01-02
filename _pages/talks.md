@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-Invited & Visiting Talks and Conference Presentations (Recent Three Years)
+List of invited & visiting talks and conference presentations in recent three (3) years, sorted by date.
 
 + **Responsible AI: Ensuring Privacy and Fairness in Face Recognition**<br>
   <u>Invited Talk</u>, Guest Lecture, Ruhr University Bochum (RUB), Bochum, Germany, July 4, 2025.

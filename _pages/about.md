@@ -43,6 +43,47 @@ Hi, I'm Cheng Yaw Low (Cheng), a researcher with the [Data Science for Humanity,
   - Talk Title: Cultivating Greener Cities: Unveiling the Power of Forest Biometrics in Urbanization.
 + **June 18 ~ 22, 2023**: Attending the CVPR 2023 for a poster presentation.
   - Paper Title: [Recognizability Embedding Enhancement for Very Low-Resolution Face Recognition and Quality Estimation](https://openaccess.thecvf.com/content/CVPR2023/papers/Chai_Recognizability_Embedding_Enhancement_for_Very_Low-Resolution_Face_Recognition_and_Quality_CVPR_2023_paper.pdf)
+ 
+<details>
+<summary><strong>Archived Activities (Prior to 2023)</strong></summary>
+
+<ul>
+  <li>
+    <strong>Dec. 20–22, 2023</strong>: Attended KSC 2023 (represented by undergraduate intern Kaleb Asfaw) for an oral presentation.<br>
+    Paper Title:
+    <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11705225">
+      Relaxing Gender Constraint for Identity-Consistent Face Synthesis
+    </a>
+  </li>
+
+  <li>
+    <strong>Nov. 29, 2023</strong>: Visited the University of Cambridge for a project discussion.<br>
+    Project Title: <em>Bridging the Gap: Advancement in Biometrics for Forest Management</em>
+  </li>
+
+  <li>
+    <strong>Nov. 20–24, 2023</strong>: Attended BMVC 2023 for an oral presentation.<br>
+    Paper Title:
+    <a href="https://papers.bmvc2023.org/0282.pdf">
+      SlackedFace: Learning a Slacked Margin for Low-Resolution Face Recognition
+    </a>
+  </li>
+
+  <li>
+    <strong>Nov. 03, 2023</strong>: Delivered a talk in the KAIST Urban X Seminar Series.<br>
+    Talk Title: <em>Cultivating Greener Cities: Unveiling the Power of Forest Biometrics in Urbanization</em>
+  </li>
+
+  <li>
+    <strong>June 18–22, 2023</strong>: Attended CVPR 2023 for a poster presentation.<br>
+    Paper Title:
+    <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Chai_Recognizability_Embedding_Enhancement_for_Very_Low-Resolution_Face_Recognition_and_Quality_CVPR_2023_paper.pdf">
+      Recognizability Embedding Enhancement for Very Low-Resolution Face Recognition and Quality Estimation
+    </a>
+  </li>
+</ul>
+
+</details>
 
 # Contact
-chengyawlow@changwon.ac.kr; chengyawlow@gmail.com
+chengyawlow@changwon.ac.kr

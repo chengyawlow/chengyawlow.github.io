@@ -1,14 +1,16 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: "About"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi, I'm Cheng Yaw Low (Cheng), a researcher with the [Data Science for Humanity, Max Planck Institute for Security and Privacy (MPI-SP), led by Prof. Meeyoung Cha](https://www.mpi-sp.org/cha). My research interest primarily focuses on computer vision and biometrics, with specializations in biometric recognition, large-scale synthetic biometric data generation, and biometric template protection. Recently, my team has initiated several new projects, including forest biometrics using remote sensing and multimodal harmful memes detection for social bias mitigation.
+**Responsible AI Innovation Laboratory** (RAIN Lab, 책임 인공지능 혁신 연구실) is led by Cheng-Yaw Low (류정열). The lab focuses on developing **responsible and trustworthy AI models**, with core research directions spanning computer vision and biometrics, synthetic data generation for bias mitigation, and privacy-preserving biometric template protection.
+
+More recently, RAIN Lab has broadened its mission toward **AI for social and environmental good**, exploring **ecological and maritime AI** to support biodiversity conservation, environmental monitoring, and global maritime security through remote sensing, multimodal perception, and responsible learning frameworks.
 
 # News
 + **Sep. 01, 2025**: Establishing Responsible AI Innovation Laboratory (RAIN Lab 책임 인공지능 혁신 연구실)

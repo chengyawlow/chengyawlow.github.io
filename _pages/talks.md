@@ -5,10 +5,13 @@ permalink: /talks/
 author_profile: true
 ---
 
-List of invited/visiting talks and conference presentations in recent three (3) years, sorted by date.
+Invited & Visiting Talks and Conference Presentations (Past Three Years)
 
 + **Responsible AI: Ensuring Privacy and Fairness in Face Recognition**<br>
   <u>Invited Talk</u>, Guest Lecture, Ruhr University Bochum (RUB), Bochum, Germany, July 4, 2025.
+
++ **From Known to Rare and Unknown: Toward More Inclusive Biodiversity Monitoring**<br>
+  <u>Internal Retreat Presentation (Poster)</u>, Max Planck Institute for Security and Privacy, Bochum, Germany, June 11, 2025.
   
 + **Ensuring Privacy and Fairness: Face Recognition in the Era of Synthetic Data**<br>
   <u>Invited Talk</u>, Special Lecture Series in AI, Seoul National University of Science and Technology (SeoulTech), South Korea, Sep. 23, 2024.

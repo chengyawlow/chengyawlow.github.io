@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home" # "Cheng Yaw, Low / Home"
 title_separator          : "-"
-name                     : &name "Cheng Yaw, Low"
+name                     : &name "Cheng-Yaw Low | 류정열"
 description              : &description "personal description"
 url                      : "https://chengyawlow.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cheng Yaw, Low (Cheng)"
+  name             : "Cheng-Yaw Low | 류정열"
   avatar           : "myprofile_new.jpeg"
   bio              : "Responsible AI Innovation Laboratory (RAIN Lab, 책임 인공지능 혁신 연구실), Department of AI Convergence Engineering, Changwon National University" # "Data Science for Humanity, Max Planck Institute for Security and Privacy (MPI-SP)"
   location         : Republic of Korea # "https://maps.app.goo.gl/gfSXiZdwhs6n1s958"

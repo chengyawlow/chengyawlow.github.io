@@ -48,5 +48,18 @@ Invited & Visiting Talks and Conference Presentations (Past Three Years)
   
 + **Revisiting Face Recognition and New Challenges**<br>
   <u>Invited Talk</u>, Malaysia-Germany Webinar – InnovationLabs.my, March 11, 2021.
+
+<details>
+<summary><strong>2023–2021</strong></summary>
+
+<br>
+
++ **Bridging the Gap: Advancements in Biometrics for Forest Management**  
+  <u>Visiting Talk</u>, University of Cambridge, UK, Nov. 29, 2023.
+
++ **SlackedFace: Learning a Slacked Margin for Low-Resolution Face Recognition**  
+  <u>Conference Presentation (Oral)</u>, BMVC 2023, Aberdeen, UK.
+
+</details>
  
 

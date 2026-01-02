@@ -17,6 +17,7 @@ author_profile: true
   + Thesis Title: Geographic Information System for Flood Forecasting
   + Advisor: Prof. Meng Chew Leow
 
+
 # Employment History
 + Sep. 2025 ~           : **Assistant Professor**, Department of AI Convergence Engineering, Changwon National University, Republic of Korea. 
 + Jan. 2025 ~ Aug. 2025 : **Postdoctoral Researcher**, Max Planck Institute for Security and Privacy (MPI-SP), Germany.

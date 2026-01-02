@@ -11,7 +11,7 @@ redirect_from:
 Hi, I'm Cheng Yaw Low (Cheng), a researcher with the [Data Science for Humanity, Max Planck Institute for Security and Privacy (MPI-SP), led by Prof. Meeyoung Cha](https://www.mpi-sp.org/cha). My research interest primarily focuses on computer vision and biometrics, with specializations in biometric recognition, large-scale synthetic biometric data generation, and biometric template protection. Recently, my team has initiated several new projects, including forest biometrics using remote sensing and multimodal harmful memes detection for social bias mitigation.
 
 # News
-+ **Sep. 01, 2025**: Establishing Responsible AI Innovation Laboratory (RAIN Lab)
++ **Sep. 01, 2025**: Establishing Responsible AI Innovation Laboratory (RAIN Lab 책임 인공지능 혁신 연구실)
 + **Sep. 01, 2025**: Joining Deparment of AI Convergence Engineering, Changwon National University, South Korea, as an Assistant Professor.
 + **July 4, 2025**: Delivering a Guest Lecture on Responsible AI Ruhr University Bochum (RUB), Germany.
 + **Mar. 27, 2025**: Awarded the Amazon Research Award (ARA) – Fall 2024 Cycle (Sustainability)

@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-**Responsible AI Innovation Laboratory** (RAIN Lab, 책임 인공지능 혁신 연구실) is led by Cheng-Yaw Low (류정열). The lab focuses on developing **responsible and trustworthy AI models**, with core research directions spanning computer vision and biometrics, synthetic data generation for bias mitigation, and privacy-preserving biometric template protection.
-
-More recently, RAIN Lab has broadened its mission toward **AI for social and environmental good**, exploring **ecological and maritime AI** to support biodiversity conservation, environmental monitoring, and global maritime security through remote sensing, multimodal perception, and responsible learning frameworks.
-
 # News
 + **Sep. 01, 2025**: Establishing Responsible AI Innovation Laboratory (RAIN Lab 책임 인공지능 혁신 연구실)
 + **Sep. 01, 2025**: Joining Deparment of AI Convergence Engineering, Changwon National University, South Korea, as an Assistant Professor.

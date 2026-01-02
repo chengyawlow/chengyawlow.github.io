@@ -1,8 +1,8 @@
 ---
 layout: single
 permalink: /
-title: "About Me"
-excerpt: "About Me"
+title: "About"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/

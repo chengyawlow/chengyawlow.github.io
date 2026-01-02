@@ -21,4 +21,4 @@ List of **selected journal & conference research articles** published in recent 
 + **Cheng Yaw Low**, Andrew Beng Jin Teoh, and Cong Jie Ng, "[Multi-Fold Gabor, PCA, ICA Filter Convolution Descriptor for Face Recognition](https://ieeexplore.ieee.org/abstract/document/8063938/)," IEEE Transactions on Circuits and Systems for Video Technology (JCR IF 8.4), vol. 29(1), pp. 115-129, Jan. 2019, doi: 10.1109/TCSVT.2017.2761829.
 
 # Publication List
-Please find my complete publication list on <a href="https://scholar.google.com/citations?user=NgRN_6kAAAAJ&hl=en">my Google Scholar profile</a>.
+A complete list of publications is available on my <a href="https://scholar.google.com/citations?user=NgRN_6kAAAAJ&hl=en">Google Scholar</a>.

@@ -35,14 +35,14 @@ Hi, I'm Cheng Yaw Low (Cheng), a researcher with the [Data Science for Humanity,
   - Paper Title: [Self-Attentive Contrastive Learning for Conditioned Periocular and Face Biometrics](https://ieeexplore.ieee.org/document/10418204)
 + **Dec. 20 ~ 22, 2023**: Attending the KSC 2023 (represented by our undergraduate intern, Kaleb Asfaw) for an oral presentation.
   - Paper Title: [Relaxing Gender Constraint for Identity-Consistent Face Synthesis](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11705225)
-+ **Nov. 29, 2023**: Visiting the University of Cambridge for a project discussion.
+<!-- + **Nov. 29, 2023**: Visiting the University of Cambridge for a project discussion.
   - Project Title: Bridging the Gap: Advancement in Biometrics for Forest Management
 + **Nov. 20 ~ 24, 2023**: Attending the BMVC 2023 for an oral presentation.
   - Paper Title: [SlackedFace: Learning a Slacked Margin for Low-Resolution Face Recognition](https://papers.bmvc2023.org/0282.pdf)
 + **Nov. 03, 2023**: Delivering a talk in the KAIST Urban X Seminar Series
   - Talk Title: Cultivating Greener Cities: Unveiling the Power of Forest Biometrics in Urbanization.
 + **June 18 ~ 22, 2023**: Attending the CVPR 2023 for a poster presentation.
-  - Paper Title: [Recognizability Embedding Enhancement for Very Low-Resolution Face Recognition and Quality Estimation](https://openaccess.thecvf.com/content/CVPR2023/papers/Chai_Recognizability_Embedding_Enhancement_for_Very_Low-Resolution_Face_Recognition_and_Quality_CVPR_2023_paper.pdf)
+  - Paper Title: [Recognizability Embedding Enhancement for Very Low-Resolution Face Recognition and Quality Estimation](https://openaccess.thecvf.com/content/CVPR2023/papers/Chai_Recognizability_Embedding_Enhancement_for_Very_Low-Resolution_Face_Recognition_and_Quality_CVPR_2023_paper.pdf) -->
  
 <details>
 <summary><strong>Archived Activities (Prior to 2023)</strong></summary>

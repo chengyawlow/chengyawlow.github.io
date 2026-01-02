@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-Invited & Visiting Talks and Conference Presentations (Past Three Years)
+Invited & Visiting Talks and Conference Presentations (Recent Three Years)
 
 + **Responsible AI: Ensuring Privacy and Fairness in Face Recognition**<br>
   <u>Invited Talk</u>, Guest Lecture, Ruhr University Bochum (RUB), Bochum, Germany, July 4, 2025.
@@ -43,22 +43,16 @@ Invited & Visiting Talks and Conference Presentations (Past Three Years)
 + **Away from Unrecognizable Face Images for Empowered Embedding Learning**<br>
   <u>Internal Talk</u>, IBS Data Science Seminar, Institute for Basic Science, Republic of Korea, Apr. 28, 2023.
 
+<details>
+<summary><strong>2022-2021</strong></summary>
+
+<br>
+
 + **New Challenges in Periocular Recognition and Surveillance Face Recognition**<br>
   <u>Invited Talk</u>, Summer School Program, Gachon University, Republic of Korea, July 15, 2021.
   
 + **Revisiting Face Recognition and New Challenges**<br>
-  <u>Invited Talk</u>, Malaysia-Germany Webinar – InnovationLabs.my, March 11, 2021.
-
-<details>
-<summary><strong>2023–2021</strong></summary>
-
-<br>
-
-+ **Bridging the Gap: Advancements in Biometrics for Forest Management**  
-  <u>Visiting Talk</u>, University of Cambridge, UK, Nov. 29, 2023.
-
-+ **SlackedFace: Learning a Slacked Margin for Low-Resolution Face Recognition**  
-  <u>Conference Presentation (Oral)</u>, BMVC 2023, Aberdeen, UK.
+  <u>Invited Talk</u>, Malaysia-Germany Webinar – InnovationLabs.my, March 11, 2021., BMVC 2023, Aberdeen, UK.
 
 </details>
  

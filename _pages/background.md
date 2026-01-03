@@ -19,7 +19,7 @@ author_profile: true
 
 
 # Employment History
-+ Sep. 2025 ~           : **Assistant Professor**, Department of AI Convergence Engineering, Changwon National University, Republic of Korea. 
++ Sep. 2025 ~ Present   : **Assistant Professor**, Department of AI Convergence Engineering, Changwon National University, Republic of Korea. 
 + Jan. 2025 ~ Aug. 2025 : **Postdoctoral Researcher**, Max Planck Institute for Security and Privacy (MPI-SP), Germany.
 + Mar. 2022 ~ Dec. 2024 : **Research Associate** (Senior Researcher), Institute for Basic Science, Republic of Korea.
 + Nov. 2019 ~ Feb. 2022 : **Postdoctoral Researcher**, Yonsei University, Republic of Korea.

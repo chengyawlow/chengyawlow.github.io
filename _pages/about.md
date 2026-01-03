@@ -48,7 +48,7 @@ More recently, RAIN Lab has broadened its mission toward <u>AI for social and en
   - Paper Title: [Recognizability Embedding Enhancement for Very Low-Resolution Face Recognition and Quality Estimation](https://openaccess.thecvf.com/content/CVPR2023/papers/Chai_Recognizability_Embedding_Enhancement_for_Very_Low-Resolution_Face_Recognition_and_Quality_CVPR_2023_paper.pdf) -->
  
 <details>
-<summary><strong>Archived Activities (Prior to 2023)</strong></summary>
+<summary><strong>Prior to 2023</strong></summary>
 
 <ul>
   <li>

@@ -53,9 +53,18 @@ author_profile: true
 
 # Awards 
 
-+ **Amazon Research Award 2025**, [Forest-Blossom (Sustainability Track)](https://www.amazon.science/research-awards/recipients/cheng-yaw-low).
-+ **Winning Team**, [Face Recognition Challenge in the Era of Synthetic Data, CVPR 2024](https://frcsyn.github.io/).
-+ **Winning Team**, [Computer Vision for Ecology Challenge, ECCV 2024](https://cv4e.netlify.app/papers/).
++ **Amazon Research Award 2025**, 
+  <a href="https://www.amazon.science/research-awards/recipients/cheng-yaw-low" target="_blank" rel="noopener noreferrer">
+    Forest-Blossom (Sustainability Track)
+  </a>.
++ **Winning Team**, 
+  <a href="https://frcsyn.github.io/" target="_blank" rel="noopener noreferrer">
+    Face Recognition Challenge in the Era of Synthetic Data, CVPR 2024
+  </a>.
++ **Winning Team**, 
+  <a href="https://cv4e.netlify.app/papers/" target="_blank" rel="noopener noreferrer">
+    Computer Vision for Ecology Challenge, ECCV 2024
+  </a>.
 + **Korean Research Fellowship (KRF) Brain Pool 2019-2022**, National Research Foundation of Korea, Republic of Korea
 + **Global Leader Fellowship 2014-2018**, Yonsei University, Republic of Korea
 

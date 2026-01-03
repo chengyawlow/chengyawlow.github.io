@@ -51,7 +51,6 @@ author_profile: true
 </details>
 
 &nbsp;
-
 # Awards 
 
 + **Amazon Research Award 2025** (Sustainability Track)

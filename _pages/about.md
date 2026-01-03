@@ -87,7 +87,3 @@ More recently, RAIN Lab has broadened its mission toward <u>AI for social and en
 </ul>
 
 </details>
-
-
-# Contact
-+ Email: chengyawlow@changwon.ac.kr

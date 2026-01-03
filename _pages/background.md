@@ -29,7 +29,7 @@ author_profile: true
 + Apr. 2008 ~ Nov. 2009: **Assistant Lecturer**, Faculty of Information Science and Technology, Multimedia University, Malaysia.
 + Apr. 2005 ~ Mar. 2008: **Tutor**, Faculty of Information Science and Technology, Multimedia University, Malaysia.
 
----
+----
 
 <details>
 <summary><strong>Archived Employment History (Before 2019)</strong></summary>

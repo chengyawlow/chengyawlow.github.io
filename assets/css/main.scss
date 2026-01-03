@@ -39,3 +39,23 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* RAIN logo in the masthead (right side) */
+.masthead__logo {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  padding-left: 12px;
+}
+
+.masthead__logo img {
+  height: 42px;
+  width: auto;
+}
+
+/* Mobile tweak */
+@media (max-width: 768px) {
+  .masthead__logo img {
+    height: 32px;
+  }
+}

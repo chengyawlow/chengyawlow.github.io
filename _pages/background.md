@@ -50,7 +50,7 @@ author_profile: true
 
 </details>
 
-<div style="height:10px;">&#8203;</div>
+<div style="height:20px;">&#8203;</div>
 
 # Awards 
 

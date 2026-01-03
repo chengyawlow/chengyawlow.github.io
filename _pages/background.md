@@ -30,7 +30,7 @@ author_profile: true
 + Apr. 2005 ~ Mar. 2008: **Tutor**, Faculty of Information Science and Technology, Multimedia University, Malaysia.
 
 <details>
-<summary><strong>Archived Employment History (Before 2019)</strong></summary>
+<summary><strong>Archived Employment History (Prior to 2019)</strong></summary>
 
 + Mar. 2014 ~ Oct. 2019 : **Lecturer** (Tenured), Faculty of Information Science and Technology, Multimedia University, Malaysia.
   + On Ph.D. Study Leave from Mar. 2014 to Feb. 2018.

@@ -44,7 +44,7 @@ List of **invited** & **visiting talks** and **conference presentations** in rec
   <u>Internal Talk</u>, IBS Data Science Seminar, Institute for Basic Science, Republic of Korea, Apr. 28, 2023.
 
 <details>
-<summary><strong>Archived Talks (Prior to 2022)</strong></summary>
+<summary><strong>Prior to 2022</strong></summary>
 
 <ul>
   <li>

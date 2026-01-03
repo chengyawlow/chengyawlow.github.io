@@ -53,7 +53,7 @@ author_profile: true
 &nbsp;
 # Awards 
 
-+ **Amazon Research Award 2025** (Sustainability Track)
++ **Amazon Research Award 2025**, [Forest-Blossom](https://www.amazon.science/research-awards/recipients/cheng-yaw-low) (Sustainability Track).
 + **Winning Team**, Face Recognition Challenge in the Era of Synthetic Data, CVPR 2024.
 + **Winning Team**, Computer Vision for Ecology AI Challenge, ECCV 2024.
 + **Korean Research Fellowship (KRF) Brain Pool 2019-2022**, National Research Foundation of Korea, Republic of Korea

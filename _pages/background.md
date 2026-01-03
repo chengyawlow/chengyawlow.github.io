@@ -32,7 +32,7 @@ author_profile: true
 -->
 
 <details>
-<summary><strong>Archived Employment History (Prior to 2019)</strong></summary>
+<summary><strong>Prior to 2019</strong></summary>
 
 <ul>
   <li>

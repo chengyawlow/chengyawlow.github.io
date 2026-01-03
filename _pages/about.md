@@ -13,7 +13,7 @@ redirect_from:
 
 + **Core Research Areas:** Computer vision and generative models; multimodal data learning; remote-sensing and applications; computational science and data-driven modeling.
 
-+ **Emerging Directions:** Ecological AI for biodiversity conservation and environmental monitoring; geospatial AI for spatiotemporal modeling and Earth observation; maritime AI for maritime security using remote sensing and multimodal perception; responsible AI learning frameworks (FATE principles with robustness) for real-world deployment.
++ **Emerging Directions:** <u>Ecological AI</u> for biodiversity conservation and environmental monitoring; <u>geospatial AI</u> for spatiotemporal modeling and Earth observation; <u>maritime AI</u> for maritime security using remote sensing and multimodal perception; responsible AI learning frameworks (FATE principles with robustness) for real-world deployment.
 
 # News
 + **Sep. 01, 2025**: Establishing Responsible AI Innovation Laboratory (RAIN Lab 책임 인공지능 혁신 연구실)

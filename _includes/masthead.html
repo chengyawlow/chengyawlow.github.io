@@ -16,6 +16,15 @@
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
+        
+        <!-- ✅ RAIN Lab logo (top-right) -->
+        <div class="masthead__logo">
+          <a href="{{ base_path }}/" aria-label="RAIN Lab home">
+            <img src="{{ base_path }}/assets/img/rain-logo.svg"
+                 alt="Responsible AI Innovation (RAIN) Lab">
+          </a>
+        </div>
+
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>

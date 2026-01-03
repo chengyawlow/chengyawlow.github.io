@@ -85,7 +85,7 @@ author_profile: true
 # Awards 
 
 + **Amazon Research Award 2025** (Sustainability Track)
-+ **Wining Team**, Face Recognition Challenge in the Era of Synthetic Data, CVPR 2024.
++ **Winning Team**, Face Recognition Challenge in the Era of Synthetic Data, CVPR 2024.
 + **Winning Team**, Computer Vision for Ecology AI Challenge, ECCV 2024.
 + **Korean Research Fellowship (KRF) Brain Pool 2019-2022**, National Research Foundation of Korea, Republic of Korea
 + **Global Leader Fellowship 2014-2018**, Yonsei University, Republic of Korea

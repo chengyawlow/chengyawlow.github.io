@@ -17,10 +17,9 @@ redirect_from:
 - Privacy-preserving biometric template protection  
 
 ### Emerging Directions
-- AI for social and environmental good  
 - Ecological AI for biodiversity conservation and environmental monitoring  
-- Maritime AI for global maritime security using remote sensing and multimodal perception  
-- Responsible AI learning frameworks for real-world deployment  
+- Maritime AI for maritime security using remote sensing and multimodal perception  
+- Responsible AI learning frameworks for real-world deployment
 
 # News
 + **Sep. 01, 2025**: Establishing Responsible AI Innovation Laboratory (RAIN Lab 책임 인공지능 혁신 연구실)

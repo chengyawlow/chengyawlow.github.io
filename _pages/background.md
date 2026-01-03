@@ -28,3 +28,39 @@ author_profile: true
 + Nov. 2009 ~ Feb. 2014: **Lecturer** (Non-Tenured), Faculty of Information Science and Technology, Multimedia University, Malaysia.
 + Apr. 2008 ~ Nov. 2009: **Assistant Lecturer**, Faculty of Information Science and Technology, Multimedia University, Malaysia.
 + Apr. 2005 ~ Mar. 2008: **Tutor**, Faculty of Information Science and Technology, Multimedia University, Malaysia.
+
+---
+
+<details>
+<summary><strong>Archived Employment History (Before 2019)</strong></summary>
+
+<ul>
+  <li>
+    <strong>Lecturer (Tenured)</strong>, Faculty of Information Science and Technology, Multimedia University, Malaysia  
+    <br>
+    <em>Mar. 2014 – Oct. 2019</em>  
+    <ul>
+      <li>On Ph.D. Study Leave: Mar. 2014 – Feb. 2018</li>
+    </ul>
+  </li>
+
+  <li>
+    <strong>Lecturer (Non-Tenured)</strong>, Faculty of Information Science and Technology, Multimedia University, Malaysia  
+    <br>
+    <em>Nov. 2009 – Feb. 2014</em>
+  </li>
+
+  <li>
+    <strong>Assistant Lecturer</strong>, Faculty of Information Science and Technology, Multimedia University, Malaysia  
+    <br>
+    <em>Apr. 2008 – Nov. 2009</em>
+  </li>
+
+  <li>
+    <strong>Tutor</strong>, Faculty of Information Science and Technology, Multimedia University, Malaysia  
+    <br>
+    <em>Apr. 2005 – Mar. 2008</em>
+  </li>
+</ul>
+
+</details>

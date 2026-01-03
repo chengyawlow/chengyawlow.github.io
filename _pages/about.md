@@ -51,7 +51,7 @@ More recently, RAIN Lab has broadened its mission toward <u>AI for social and en
 
   <li>
     <strong>Nov. 29, 2023</strong>: Visited the University of Cambridge for a project discussion.<br>
-    Project Title: <em>Bridging the Gap: Advancement in Biometrics for Forest Management</em>
+    Project Title: Bridging the Gap: Advancement in Biometrics for Forest Management
   </li>
 
   <li>
@@ -64,7 +64,7 @@ More recently, RAIN Lab has broadened its mission toward <u>AI for social and en
 
   <li>
     <strong>Nov. 03, 2023</strong>: Delivered a talk in the KAIST Urban X Seminar Series.<br>
-    Talk Title: <em>Cultivating Greener Cities: Unveiling the Power of Forest Biometrics in Urbanization</em>
+    Talk Title: Cultivating Greener Cities: Unveiling the Power of Forest Biometrics in Urbanization
   </li>
 
   <li>

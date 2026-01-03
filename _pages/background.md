@@ -50,7 +50,7 @@ author_profile: true
 
 </details>
 
-&nbsp;
+
 # Awards 
 
 + **Amazon Research Award 2025**, [Forest-Blossom](https://www.amazon.science/research-awards/recipients/cheng-yaw-low) (Sustainability Track).

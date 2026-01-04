@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home" # "Cheng Yaw, Low / Home"
+title                    : "RAIN Lab" # "Cheng Yaw, Low / Home"
 title_separator          : "-"
 name                     : &name "Cheng-Yaw Low 류정열"
 description              : &description "personal description"

@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-**Responsible AI Innovation (RAIN) Lab** — building <u>responsible and trustworthy AI</u> that nurtures society and sustains ecosystems — is led by Cheng-Yaw Low, Assistant Professor in the Department of AI Convergence Engineering at <a href="https://www.changwon.ac.kr/english/" target="_blank" rel="noopener">Changwon National University</a>.
+**Responsible AI Innovation (RAIN) Lab**, building <u>responsible and trustworthy AI</u> that nurtures society and sustains ecosystems, is led by Cheng-Yaw Low, Assistant Professor in the Department of AI Convergence Engineering at <a href="https://www.changwon.ac.kr/english/" target="_blank" rel="noopener">Changwon National University</a>.
 
 + **Core Research Areas:** Computer vision and generative models; multimodal data learning; remote-sensing and applications; computational science and data-driven modeling.
 
@@ -17,7 +17,7 @@ redirect_from:
 
 # News
 + **Jan. 20–27, 2026**: I will be attending the AAAI 2026 in Singapore. I look forward to connecting with researchers and AI practitioners. Please feel free to reach out at chengyawlow@changwon.ac.kr
-+ **Sep. 01, 2025**: Establishing Responsible AI Innovation Laboratory (RAIN Lab 책임 인공지능 혁신 연구실)
++ **Sep. 01, 2025**: Establishing Responsible AI Innovation Laboratory (RAIN Lab 책임 인공지능 혁신 연구실, EON관 301호)
 + **Sep. 01, 2025**: Joining Deparment of AI Convergence Engineering, Changwon National University, South Korea, as an Assistant Professor.
 + **July 31, 2025**: Our conference article has been accepted by the 2025 International Conference on Information Technology for Social Good, Antwerp, Belgium.
   - Paper Title: [Open-Set Classification for Rare and Unknown Urban Tree Taxa](https://dl.acm.org/doi/full/10.1145/3748699.3749787)

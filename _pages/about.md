@@ -16,6 +16,7 @@ redirect_from:
 + **Emerging Directions:** <u>Ecological AI</u> for biodiversity conservation and environmental monitoring; <u>geospatial AI</u> for spatiotemporal modeling and Earth observation; <u>maritime AI</u> for maritime security using remote sensing and multimodal perception; <u>responsible AI</u> learning frameworks (FATE principles with robustness) for real-world deployment.
 
 # News
++ **Jan. 26, 2026**: [Recipeint of the 3MT People’s Choice Award, AAAI 2026 (Empowering Global South AI)](https://www.linkedin.com/feed/update/urn:li:activity:7421112370170839040/). 
 + **Jan. 20–27, 2026**: I will be attending the AAAI 2026 in Singapore. I look forward to connecting with researchers and AI practitioners. Please feel free to reach out at chengyawlow@changwon.ac.kr
 + **Sep. 01, 2025**: Establishing Responsible AI Innovation Laboratory (RAIN Lab 책임 인공지능 혁신 연구실, EON관 301호)
 + **Sep. 01, 2025**: Joining Deparment of AI Convergence Engineering, Changwon National University, South Korea, as an Assistant Professor.

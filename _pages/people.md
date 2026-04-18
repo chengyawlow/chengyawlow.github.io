@@ -6,9 +6,6 @@ author_profile: true
 ---
 
 ## Students & Lab Members
-
-+ **Sarvar Juraev**, Master's Student  
-  Enrollment: September 2025
   
 + **Zhang Ming**, Ph.D. Student  
   Enrollment: September 2025
@@ -16,7 +13,19 @@ author_profile: true
 + **Zhang Qun**, Ph.D. Student  
   Enrollment: September 2025
 
-+ **Open Positions** - RAIN Lab welcomes applications from motivated postdoctoral researchers, Ph.D. students, Master’s students, and research interns (Contact: chengyawlow@changwon.ac.kr).
++ **Lei Han**, Master's Student  
+  Enrollment: March 2026
+
++ **Wu Chenghan**, Master's Student  
+  Enrollment: March 2026
+
++ **Lee Jiyoon**, Undergraduate Student  
+  Enrollment: March 2026
+
++ **Shah Nawaz Hasham**, Undergraduate Student  
+  Enrollment: March 2026
+
++ **Open Positions** - RAISE Lab welcomes applications from motivated postdoctoral researchers, Ph.D. students, Master’s students, and research interns (Contact: chengyawlow@changwon.ac.kr).
 
 ## Research Mentors
 

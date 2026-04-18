@@ -18,7 +18,7 @@ redirect_from:
 # News
 + **Jan. 26, 2026**: [Recipeint of the 3MT People’s Choice Award, AAAI 2026 (Empowering Global South AI)](https://www.linkedin.com/feed/update/urn:li:activity:7421112370170839040/). 
 + **Jan. 20–27, 2026**: I will be attending the AAAI 2026 in Singapore. I look forward to connecting with researchers and AI practitioners. Please feel free to reach out at chengyawlow@changwon.ac.kr
-+ **Sep. 01, 2025**: Established Responsible AI Innovation Laboratory (RAIN Lab 책임 인공지능 혁신 연구실, EON관 301호)
++ **Sep. 01, 2025**: Established Responsible AI LAb (RAISE Lab 책임 인공지능 연구실, EON관 301호)
 + **Sep. 01, 2025**: Joined Deparment of AI Convergence Engineering, Changwon National University, South Korea, as an Assistant Professor.
 + **July 31, 2025**: Our conference article has been accepted by the 2025 International Conference on Information Technology for Social Good, Antwerp, Belgium.
   - Paper Title: [Open-Set Classification for Rare and Unknown Urban Tree Taxa](https://dl.acm.org/doi/full/10.1145/3748699.3749787)

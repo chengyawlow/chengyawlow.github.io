@@ -16,7 +16,7 @@ redirect_from:
 + **Emerging Directions:** <u>Ecological AI</u> for biodiversity conservation and environmental monitoring; <u>geospatial AI</u> for spatiotemporal modeling and Earth observation; <u>maritime AI</u> for maritime security using remote sensing and multimodal perception; <u>responsible AI</u> learning frameworks (FATE principles with robustness) for real-world deployment.
 
 # News
-+ **Apr. 13, 2026**: [Co-organizing Global South Machine Learning ICML 2-26 Workshop](https://sites.google.com/view/globalsouthml-icml-26/)
++ **Apr. 13, 2026**: [Co-organizing Global South Machine Learning ICML 2026 Workshop](https://sites.google.com/view/globalsouthml-icml-26/)
   - 📆 July 9, 2026 | ⏰ 8:00 AM–5:00 PM | 📍 Seoul, South Korea.
 + **Jan. 26, 2026**: [Recipeint of the 3MT People’s Choice Award, AAAI 2026 (Empowering Global South AI)](https://www.linkedin.com/feed/update/urn:li:activity:7421112370170839040/). 
 + **Jan. 20–27, 2026**: I will be attending the AAAI 2026 in Singapore. I look forward to connecting with researchers and AI practitioners. Please feel free to reach out at chengyawlow@changwon.ac.kr

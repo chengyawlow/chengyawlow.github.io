@@ -16,7 +16,7 @@ author_profile: true
 </div>
 
 <div style="display:flex; align-items:center; margin-bottom:30px;">
-  <img src="/images/jojo.jepg" width="120" style="margin-right:15px;">
+  <img src="/images/jojo.jpeg" width="120" style="margin-right:15px;">
   <div>
     <b>Zhang Qun</b>, Ph.D. Student<br>
     Enrollment: September 2025

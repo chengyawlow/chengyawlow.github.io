@@ -54,6 +54,10 @@ author_profile: true
 
 # Awards 
 
++ Recipeint of the 3MT People’s Choice Award,
+  <a href="https://sites.google.com/view/globalsouthai-aaai-26/home" target="_blank" rel="noopener noreferrer">
+    Empowering Global South AI, AAAI 2026
+  </a>.
 + Amazon Research Award 2025, 
   <a href="https://www.amazon.science/research-awards/recipients/cheng-yaw-low" target="_blank" rel="noopener noreferrer">
     Forest-Blossom (Sustainability Track)

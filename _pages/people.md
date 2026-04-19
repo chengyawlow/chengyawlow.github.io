@@ -41,7 +41,7 @@ author_profile: true
   Enrollment: March 2026
 
 + **Open Positions** - RAISE Lab welcomes applications from motivated postdoctoral researchers, Ph.D. students, Master’s students, and research interns (Contact: chengyawlow@changwon.ac.kr).
-+ 
+  
 <!--
 + **Zhang Ming**, Ph.D. Student  
   Enrollment: September 2025

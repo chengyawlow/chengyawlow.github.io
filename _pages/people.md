@@ -16,7 +16,7 @@ author_profile: true
 + **Lei Han**, Master's Student  
   Enrollment: March 2026
 
-+ **Wu Chenghan**, Master's Student  
++ **Oh Sunghan**, Master's Student  
   Enrollment: March 2026
 
 + **Lee Jiyoon**, Undergraduate Student  

@@ -7,7 +7,7 @@ author_profile: true
 
 ## Students & Lab Members
 
-<div style="display:flex; align-items:center; margin-bottom:50px;">
+<div style="display:flex; align-items:center; margin-bottom:100px;">
   <img src="/images/spark.jpg" width="120" style="margin-right:30px;">
   <div>
     <b>Zhang Ming</b>, Ph.D. Student<br>
@@ -15,7 +15,7 @@ author_profile: true
   </div>
 </div>
 
-<div style="display:flex; align-items:center; margin-bottom:50px;">
+<div style="display:flex; align-items:center; margin-bottom:100px;">
   <img src="/images/jojo.jpeg" width="120" style="margin-right:30px;">
   <div>
     <b>Zhang Qun</b>, Ph.D. Student<br>
@@ -23,7 +23,7 @@ author_profile: true
   </div>
 </div>
 
-<div style="display:flex; align-items:center; margin-bottom:50px;">
+<div style="display:flex; align-items:center; margin-bottom:100px;">
   <img src="/images/leah.jpg" width="120" style="margin-right:15px;">
   <div>
     <b>Lei Han</b>, Master's Student<br>

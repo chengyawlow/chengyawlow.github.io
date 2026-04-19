@@ -7,7 +7,7 @@ author_profile: true
 
 ## Students & Lab Members
 
-<div style="display:flex; align-items:center; margin-bottom:10px;">
+<div style="display:flex; align-items:center; margin-bottom:30px;">
   <img src="/images/spark.jpg" width="120" style="margin-right:15px;">
   <div>
     <b>Zhang Ming</b>, Ph.D. Student<br>
@@ -15,8 +15,7 @@ author_profile: true
   </div>
 </div>
 
-
-<div style="display:flex; align-items:center; margin-bottom:10px;">
+<div style="display:flex; align-items:center; margin-bottom:30px;">
   <img src="/images/zhangqun.jpg" width="120" style="margin-right:15px;">
   <div>
     <b>Zhang Qun</b>, Ph.D. Student<br>
@@ -25,7 +24,7 @@ author_profile: true
 </div>
 
 
-<div style="display:flex; align-items:center; margin-bottom:10px;">
+<div style="display:flex; align-items:center; margin-bottom:30px;">
   <img src="/images/leah.jpg" width="120" style="margin-right:15px;">
   <div>
     <b>Lei Han</b>, Master's Student<br>
@@ -34,7 +33,7 @@ author_profile: true
 </div>
 
 
-<div style="display:flex; align-items:center; margin-bottom:10px;">
+<div style="display:flex; align-items:center; margin-bottom:30px;">
   <img src="/images/ohsunghan.jpg" width="120" style="margin-right:15px;">
   <div>
     <b>Oh Sunghan</b>, Master's Student<br>
@@ -43,7 +42,7 @@ author_profile: true
 </div>
 
 
-<div style="display:flex; align-items:center; margin-bottom:10px;">
+<div style="display:flex; align-items:center; margin-bottom:30px;">
   <img src="/images/leejiyoon.jpg" width="120" style="margin-right:15px;">
   <div>
     <b>Lee Jiyoon</b>, Undergraduate Student<br>
@@ -52,7 +51,7 @@ author_profile: true
 </div>
 
 
-<div style="display:flex; align-items:center; margin-bottom:10px;">
+<div style="display:flex; align-items:center; margin-bottom:30px;">
   <img src="/images/shah.jpg" width="80" style="margin-right:15px;">
   <div>
     <b>Shah Nawaz Hasham</b>, Undergraduate Student<br>

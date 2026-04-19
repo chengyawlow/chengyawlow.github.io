@@ -8,7 +8,7 @@ author_profile: true
 ## Students & Lab Members
 
 <div style="display:flex; align-items:center; margin-bottom:10px;">
-  <img src="images/zhangming.jpg" width="80" style="margin-right:15px;">
+  <img src="images/spark.jpg" width="80" style="margin-right:15px;">
   <div>
     <b>Zhang Ming</b>, Ph.D. Student<br>
     Enrollment: September 2025
@@ -24,7 +24,7 @@ author_profile: true
 </div>
 
 <div style="display:flex; align-items:center; margin-bottom:10px;">
-  <img src="images/leihan.jpg" width="80" style="margin-right:15px;">
+  <img src="images/leah.jpg" width="80" style="margin-right:15px;">
   <div>
     <b>Lei Han</b>, Master's Student<br>
     Enrollment: March 2026

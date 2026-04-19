@@ -6,6 +6,15 @@ author_profile: true
 ---
 
 ## Students & Lab Members
+
+
+<div style="display:flex; align-items:center; margin-bottom:10px;">
+  <img src="images/zhang_ming.jpg" width="80" style="margin-right:15px;">
+  <div>
+    <b>Zhang Ming</b>, Ph.D. Student<br>
+    Enrollment: September 2025
+  </div>
+</div>
   
 + **Zhang Ming**, Ph.D. Student  
   Enrollment: September 2025

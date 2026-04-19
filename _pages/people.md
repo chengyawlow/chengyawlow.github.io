@@ -16,7 +16,7 @@ author_profile: true
 </div>
 
 <div style="display:flex; align-items:center; margin-bottom:30px;">
-  <img src="/images/zhangqun.jpg" width="120" style="margin-right:15px;">
+  <img src="/images/jojo.jepg" width="120" style="margin-right:15px;">
   <div>
     <b>Zhang Qun</b>, Ph.D. Student<br>
     Enrollment: September 2025
@@ -32,33 +32,14 @@ author_profile: true
   </div>
 </div>
 
++ **Oh Sunghan**, Master's Student  
+  Enrollment: March 2026
 
-<div style="display:flex; align-items:center; margin-bottom:30px;">
-  <img src="/images/ohsunghan.jpg" width="120" style="margin-right:15px;">
-  <div>
-    <b>Oh Sunghan</b>, Master's Student<br>
-    Enrollment: March 2026
-  </div>
-</div>
++ **Lee Jiyoon**, Undergraduate Student  
+  Enrollment: March 2026
 
-
-<div style="display:flex; align-items:center; margin-bottom:30px;">
-  <img src="/images/leejiyoon.jpg" width="120" style="margin-right:15px;">
-  <div>
-    <b>Lee Jiyoon</b>, Undergraduate Student<br>
-    Enrollment: March 2026
-  </div>
-</div>
-
-
-<div style="display:flex; align-items:center; margin-bottom:30px;">
-  <img src="/images/shah.jpg" width="80" style="margin-right:15px;">
-  <div>
-    <b>Shah Nawaz Hasham</b>, Undergraduate Student<br>
-    Enrollment: March 2026
-  </div>
-</div>
-
++ **Shah Nawaz Hasham**, Undergraduate Student  
+  Enrollment: March 2026
 
 <!--
 + **Zhang Ming**, Ph.D. Student  

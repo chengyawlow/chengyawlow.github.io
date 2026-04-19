@@ -62,7 +62,6 @@ author_profile: true
 
 + **Open Positions** - RAISE Lab welcomes applications from motivated postdoctoral researchers, Ph.D. students, Master’s students, and research interns (Contact: chengyawlow@changwon.ac.kr).
 
-<hr style="border: none; height: 1px; background: #ddd; margin: 30px 0;">
 
 ## Research Mentors
 

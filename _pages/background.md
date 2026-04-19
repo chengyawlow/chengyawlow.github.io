@@ -19,10 +19,10 @@ author_profile: true
 
 
 # Employment History
-+ Sep. 2025 ~ Present   : **Assistant Professor**, Department of AI Engineering, Changwon National University, Republic of Korea. 
-+ Jan. 2025 ~ Aug. 2025 : **Researcher**, Max Planck Institute for Security and Privacy (MPI-SP), Germany.
-+ Mar. 2022 ~ Dec. 2024 : **Research Associate** (Senior Researcher), Institute for Basic Science, Republic of Korea.
-+ Nov. 2019 ~ Feb. 2022 : **Postdoctoral Researcher**, Yonsei University, Republic of Korea.
++ Sep. 2025 ~ Present   : **Assistant Professor**, Department of AI Engineering, Changwon National University, Republic of Korea
++ Jan. 2025 ~ Aug. 2025 : **Researcher**, Max Planck Institute for Security and Privacy (MPI-SP), Germany
++ Mar. 2022 ~ Dec. 2024 : **Research Associate** (Senior Researcher), Institute for Basic Science, Republic of Korea
++ Nov. 2019 ~ Feb. 2022 : **Postdoctoral Researcher**, Yonsei University, Republic of Korea
 
 <details>
 <summary><strong>Prior to 2019</strong></summary>
@@ -57,19 +57,19 @@ author_profile: true
 + Recipeint of the 3MT People’s Choice Award,
   <a href="https://sites.google.com/view/globalsouthai-aaai-26/home" target="_blank" rel="noopener noreferrer">
     Empowering Global South AI, AAAI 2026
-  </a>.
+  </a>
 + Amazon Research Award 2025, 
   <a href="https://www.amazon.science/research-awards/recipients/cheng-yaw-low" target="_blank" rel="noopener noreferrer">
     Forest-Blossom (Sustainability Track)
-  </a>.
+  </a>
 + Winning Team, 
   <a href="https://frcsyn.github.io/" target="_blank" rel="noopener noreferrer">
     Face Recognition Challenge in the Era of Synthetic Data, CVPR 2024
-  </a>.
+  </a>
 + Winning Team, 
   <a href="https://cv4e.netlify.app/papers/" target="_blank" rel="noopener noreferrer">
     Computer Vision for Ecology Challenge, ECCV 2024
-  </a>.
+  </a>
 + Korean Research Fellowship Brain Pool (2019-2022), National Research Foundation of Korea, Republic of Korea
 + Global Leader Fellowship (2014-2018), Yonsei University, Republic of Korea
 

@@ -44,7 +44,7 @@ author_profile: true
 + **Zhang Ming**, Ph.D. Student  
   Enrollment: September 2025
 
-+ **Zhang Qun**, Ph.D. Student  
++ **Zhang Jun**, Ph.D. Student  
   Enrollment: September 2025
 
 + **Lei Han**, Master's Student  

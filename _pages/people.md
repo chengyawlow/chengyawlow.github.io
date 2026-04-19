@@ -8,44 +8,49 @@ author_profile: true
 ## Students & Lab Members
 
 <div style="display:flex; align-items:center; margin-bottom:10px;">
-  <img src="/images/spark.jpg" width="80" style="margin-right:15px;">
+  <img src="/images/spark.jpg" width="120" style="margin-right:15px;">
   <div>
     <b>Zhang Ming</b>, Ph.D. Student<br>
     Enrollment: September 2025
   </div>
 </div>
 
+
 <div style="display:flex; align-items:center; margin-bottom:10px;">
-  <img src="/images/zhangqun.jpg" width="80" style="margin-right:15px;">
+  <img src="/images/zhangqun.jpg" width="120" style="margin-right:15px;">
   <div>
     <b>Zhang Qun</b>, Ph.D. Student<br>
     Enrollment: September 2025
   </div>
 </div>
 
+
 <div style="display:flex; align-items:center; margin-bottom:10px;">
-  <img src="/images/leah.jpg" width="80" style="margin-right:15px;">
+  <img src="/images/leah.jpg" width="120" style="margin-right:15px;">
   <div>
     <b>Lei Han</b>, Master's Student<br>
     Enrollment: March 2026
   </div>
 </div>
 
+
 <div style="display:flex; align-items:center; margin-bottom:10px;">
-  <img src="/images/ohsunghan.jpg" width="80" style="margin-right:15px;">
+  <img src="/images/ohsunghan.jpg" width="120" style="margin-right:15px;">
   <div>
     <b>Oh Sunghan</b>, Master's Student<br>
     Enrollment: March 2026
   </div>
 </div>
 
+
 <div style="display:flex; align-items:center; margin-bottom:10px;">
-  <img src="/images/leejiyoon.jpg" width="80" style="margin-right:15px;">
+  <img src="/images/leejiyoon.jpg" width="120" style="margin-right:15px;">
   <div>
     <b>Lee Jiyoon</b>, Undergraduate Student<br>
     Enrollment: March 2026
   </div>
 </div>
+
 
 <div style="display:flex; align-items:center; margin-bottom:10px;">
   <img src="/images/shah.jpg" width="80" style="margin-right:15px;">
@@ -54,6 +59,7 @@ author_profile: true
     Enrollment: March 2026
   </div>
 </div>
+
 
 <!--
 + **Zhang Ming**, Ph.D. Student  

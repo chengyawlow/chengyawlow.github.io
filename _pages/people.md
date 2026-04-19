@@ -7,15 +7,55 @@ author_profile: true
 
 ## Students & Lab Members
 
-
 <div style="display:flex; align-items:center; margin-bottom:10px;">
-  <img src="images/zhang_ming.jpg" width="80" style="margin-right:15px;">
+  <img src="images/zhangming.jpg" width="80" style="margin-right:15px;">
   <div>
     <b>Zhang Ming</b>, Ph.D. Student<br>
     Enrollment: September 2025
   </div>
 </div>
-  
+
+<div style="display:flex; align-items:center; margin-bottom:10px;">
+  <img src="images/zhangqun.jpg" width="80" style="margin-right:15px;">
+  <div>
+    <b>Zhang Qun</b>, Ph.D. Student<br>
+    Enrollment: September 2025
+  </div>
+</div>
+
+<div style="display:flex; align-items:center; margin-bottom:10px;">
+  <img src="images/leihan.jpg" width="80" style="margin-right:15px;">
+  <div>
+    <b>Lei Han</b>, Master's Student<br>
+    Enrollment: March 2026
+  </div>
+</div>
+
+<div style="display:flex; align-items:center; margin-bottom:10px;">
+  <img src="images/ohsunghan.jpg" width="80" style="margin-right:15px;">
+  <div>
+    <b>Oh Sunghan</b>, Master's Student<br>
+    Enrollment: March 2026
+  </div>
+</div>
+
+<div style="display:flex; align-items:center; margin-bottom:10px;">
+  <img src="images/leejiyoon.jpg" width="80" style="margin-right:15px;">
+  <div>
+    <b>Lee Jiyoon</b>, Undergraduate Student<br>
+    Enrollment: March 2026
+  </div>
+</div>
+
+<div style="display:flex; align-items:center; margin-bottom:10px;">
+  <img src="images/shah.jpg" width="80" style="margin-right:15px;">
+  <div>
+    <b>Shah Nawaz Hasham</b>, Undergraduate Student<br>
+    Enrollment: March 2026
+  </div>
+</div>
+
+<!--
 + **Zhang Ming**, Ph.D. Student  
   Enrollment: September 2025
 
@@ -33,6 +73,7 @@ author_profile: true
 
 + **Shah Nawaz Hasham**, Undergraduate Student  
   Enrollment: March 2026
+-->
 
 + **Open Positions** - RAISE Lab welcomes applications from motivated postdoctoral researchers, Ph.D. students, Master’s students, and research interns (Contact: chengyawlow@changwon.ac.kr).
 

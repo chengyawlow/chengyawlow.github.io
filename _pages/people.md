@@ -24,7 +24,7 @@ author_profile: true
 </div>
 
 <div style="display:flex; align-items:center; margin-bottom:10px;">
-  <img src="/images/leah.jpg" width="120" style="margin-right:15px;">
+  <img src="/images/leah.jpg" width="120" style="margin-right:30px;">
   <div>
     <b>Lei Han</b>, Master's Student<br>
     Enrollment: March 2026

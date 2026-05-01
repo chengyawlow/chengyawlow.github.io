@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-**Responsible AI Lab (RAISE)**, guided by the vision "Beyond AI: Sustainability & Equity for Social Good", is led by Cheng-Yaw Low, Assistant Professor in the Department of AI Convergence Engineering at <a href="https://www.changwon.ac.kr/english/" target="_blank" rel="noopener">Changwon National University</a>.
+The **RAISE Lab** is led by Cheng-Yaw Low, Assistant Professor in the Department of AI Convergence Engineering at <a href="https://www.changwon.ac.kr/english/" target="_blank" rel="noopener">Changwon National University</a>. Guided by the tagline “Beyond AI: **R**esponsible **AI** for **S**ustainability & **E**quity (RAISE),” the lab advances AI research for social good.
 
 + **Research Areas:** Computer vision and generative models; multimodal data learning; remote-sensing and applications; computational science and data-driven modeling.
 

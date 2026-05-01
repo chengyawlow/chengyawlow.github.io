@@ -16,7 +16,7 @@ redirect_from:
 + **Emerging Directions:** <u>Ecological AI</u> for biodiversity conservation and environmental monitoring; <u>geospatial AI</u> for spatiotemporal modeling and Earth observation; <u>maritime AI</u> for maritime security using remote sensing and multimodal perception; <u>responsible AI</u> learning frameworks (FATE principles with robustness) for real-world deployment.
 
 # News
-+ **May 01, 2025**: Our work has been accepted for presentation at ICML 2026.
++ **May 01, 2025**: Our work has been accepted to ICML 2026.
   - Paper Title: Textual Supervision Enhances Geospatial Representations in Vision-Language Models
 + **Apr. 13, 2026**: [Co-organizing Global South Machine Learning ICML 2026 Workshop](https://sites.google.com/view/globalsouthml-icml-26/)
    - 📆 July 9, 2026 / ⏰ 8:00 AM–5:00 PM /📍 Seoul, South Korea.

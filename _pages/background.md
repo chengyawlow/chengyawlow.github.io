@@ -9,6 +9,7 @@ author_profile: true
   + Dissertation Title: Stacking-based Deep Neural Networks for Pattern Classification
   + Advisor: Prof. Andrew Beng Jin Teoh
     
+<!--  
 + **Master in Science (Computer Science)**, Multimedia University, Malaysia
   + Thesis Title: Offline Handwritten Signature Watermarking for Digital Document Authentication
   + Advisor: Prof. Andrew Beng Jin Teoh
@@ -16,7 +17,8 @@ author_profile: true
 + **Bachelor of Information Technology (Computer Science)**, Multimedia University, Malaysia
   + Thesis Title: Geographic Information System for Flood Forecasting
   + Advisor: Prof. Meng Chew Leow
- 
+-->
+
 <details>
 <summary><strong>Prior to Ph.D.</strong></summary>
 

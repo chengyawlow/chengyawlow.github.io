@@ -16,6 +16,31 @@ author_profile: true
 + **Bachelor of Information Technology (Computer Science)**, Multimedia University, Malaysia
   + Thesis Title: Geographic Information System for Flood Forecasting
   + Advisor: Prof. Meng Chew Leow
+ 
+<details>
+<summary><strong>Prior to Ph.D.</strong></summary>
+
+<ul>
+  <li>
+    <strong>Master of Science in Computer Science</strong>, Multimedia University, Malaysia.
+    <ul>
+      <li>Thesis Title: Offline Handwritten Signature Watermarking for Digital Document Authentication</li>
+      <li>Advisor: Prof. Andrew Beng Jin Teoh</li>
+    </ul>
+  </li>
+
+  <li>
+    <strong>Bachelor of Information Technology in Computer Science</strong>, Multimedia University, Malaysia.
+    <ul>
+      <li>Thesis Title: Geographic Information System for Flood Forecasting</li>
+      <li>Advisor: Prof. Meng Chew Leow</li>
+    </ul>
+  </li>
+</ul>
+
+</details>
+
+<div style="height:20px;">&#8203;</div>
 
 
 # Employment History

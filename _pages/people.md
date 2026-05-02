@@ -40,7 +40,7 @@ author_profile: true
 + **Shah Nawaz Hasham**, Undergraduate Student  
   Enrollment: March 2026
 
-+ **Open Positions** - RAISE Lab welcomes applications from motivated postdoctoral researchers, Ph.D. students, Master’s students, and research interns (Contact: chengyawlow@changwon.ac.kr).
++ **Open Positions** - The RAISE Lab welcomes motivated postdoctoral researchers, Ph.D. students, Master’s students, and research interns (Contact: chengyawlow@changwon.ac.kr).
   
 <!--
 + **Zhang Ming**, Ph.D. Student  

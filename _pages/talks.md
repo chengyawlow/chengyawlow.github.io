@@ -7,6 +7,9 @@ author_profile: true
 
 List of invited & visiting talks and conference presentations in recent three (3) years, sorted by date.
 
++ **When Foundation Models Fall Short: Insights from Ecological AI**<br>
+  <u>Invited Talk</u>, Public Lecture, University of Nottingham Ningbo China, May 27-29, 2026.
+  
 + **Responsible AI: Ensuring Privacy and Fairness in Face Recognition**<br>
   <u>Invited Talk</u>, Guest Lecture, Ruhr University Bochum (RUB), Bochum, Germany, July 4, 2025.
 

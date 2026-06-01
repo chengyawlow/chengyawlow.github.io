@@ -9,13 +9,14 @@ redirect_from:
   - /about.html
 ---
 
-The **RAISE Lab** is led by Cheng-Yaw Low, Assistant Professor in the Department of AI Convergence Engineering at <a href="https://www.changwon.ac.kr/international/main.do" target="_blank">Changwon National University</a>. Guided by the tagline “Beyond AI: **R**esponsible **AI** for **S**ustainability & **E**quity (RAISE),” the lab advances AI research for social good.
+The **RAISE Lab** is led by Cheng-Yaw Low, Assistant Professor in the Department of AI Convergence Engineering at <a href="https://www.changwon.ac.kr/international/main.do" target="_blank">Changwon National University</a>. Guided by "Responsible AI (for Sustainability & Equity)," the lab advances AI research that promotes social good and contributes to the UN Sustainable Development Goals (SDGs).
 
 + **Research Areas:** Computer vision and generative models; multimodal data learning; remote-sensing and applications; computational science and data-driven modeling.
 
 + **Emerging Directions:** <u>Ecological AI</u> for biodiversity conservation and environmental monitoring; <u>geospatial AI</u> for spatiotemporal modeling and Earth observation; <u>maritime AI</u> for maritime security using remote sensing and multimodal perception; <u>responsible AI</u> learning frameworks (FATE principles with robustness) for real-world deployment.
 
 # News
++ **May 27-29, 2026**: Delivered an Invited Talk at University of Nottingham Ningbo China.
 + **May 01, 2026**: Our work has been accepted to ICML 2026.
   - Paper Title: Textual Supervision Enhances Geospatial Representations in Vision-Language Models
 + **Apr. 13, 2026**: [Co-organizing Global South Machine Learning ICML 2026 Workshop](https://sites.google.com/view/globalsouthml-icml-26/)

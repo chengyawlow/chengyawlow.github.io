@@ -7,7 +7,7 @@ author_profile: true
 
 ## Students & Lab Members
 
-<div style="display:flex; align-items:center; margin-top:30px; margin-bottom:10px;">
+<div style="display:flex; align-items:center; margin-top:30px; margin-bottom:20px;">
   <img src="/images/spark.jpg" width="120" style="margin-right:30px;">
   <div>
     <b>Zhang, Ming</b>, Ph.D. Student<br>
@@ -15,7 +15,7 @@ author_profile: true
   </div>
 </div>
 
-<div style="display:flex; align-items:center; margin-bottom:10px;">
+<div style="display:flex; align-items:center; margin-bottom:20px;">
   <img src="/images/jojo.jpeg" width="120" style="margin-right:30px;">
   <div>
     <b>Zhang, Qun</b>, Ph.D. Student<br>
@@ -23,7 +23,7 @@ author_profile: true
   </div>
 </div>
 
-<div style="display:flex; align-items:center; margin-bottom:10px;">
+<div style="display:flex; align-items:center; margin-bottom:20px;">
   <img src="/images/leah.jpg" width="120" style="margin-right:30px;">
   <div>
     <b>Lei, Han 뇌한</b>, Master's Student<br>
@@ -31,7 +31,7 @@ author_profile: true
   </div>
 </div>
 
-<div style="display:flex; align-items:center; margin-bottom:10px;">
+<div style="display:flex; align-items:center; margin-bottom:20px;">
   <img src="/images/sh_oh.jpg" width="120" style="margin-right:30px;">
   <div>
     <b>Oh, Sunghan 오성한</b>, Master's Student<br>
@@ -39,7 +39,7 @@ author_profile: true
   </div>
 </div>
 
-<div style="display:flex; align-items:center; margin-bottom:10px;">
+<div style="display:flex; align-items:center; margin-bottom:20px;">
   <img src="/images/jy_lee.jpg" width="120" style="margin-right:30px;">
   <div>
     <b>Lee, Jiyoon 이지윤</b>, Undergraduate Student<br>
@@ -47,7 +47,7 @@ author_profile: true
   </div>
 </div>
 
-<div style="display:flex; align-items:center; margin-bottom:10px;">
+<div style="display:flex; align-items:center; margin-bottom:20px;">
   <img src="/images/shah.jpg" width="120" style="margin-right:30px;">
   <div>
     <b>Shah, Nawaz Hasham</b>, Undergraduate Student<br>
@@ -55,7 +55,7 @@ author_profile: true
   </div>
 </div>
 
-<div style="display:flex; align-items:center; margin-bottom:10px;">
+<div style="display:flex; align-items:center; margin-bottom:20px;">
   <img src="/images/hh_won.jpg" width="120" style="margin-right:30px;">
   <div>
     <b>Won, Hual Hual 원활활</b>, Undergraduate Student<br>
@@ -63,15 +63,13 @@ author_profile: true
   </div>
 </div>
 
-<div style="display:flex; align-items:center; margin-bottom:10px;">
+<div style="display:flex; align-items:center; margin-bottom:20px;">
   <img src="/images/hg_jang.jpg" width="120" style="margin-right:30px;">
   <div>
     <b>Jang, Hangyeol 장한결</b>, Undergraduate Student<br>
     Enrollment: June 2026
   </div>
 </div>
-
-
 
 + **Open Positions** - The RAISE Lab welcomes motivated postdoctoral researchers, Ph.D. students, Master’s students, and research interns (Contact: chengyawlow@changwon.ac.kr).
   

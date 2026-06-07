@@ -31,8 +31,13 @@ author_profile: true
   </div>
 </div>
 
-+ **Oh Sunghan**, Master's Student  
-  Enrollment: March 2026
+<div style="display:flex; align-items:center; margin-bottom:10px;">
+  <img src="/images/sh_oh.jpg" width="120" style="margin-right:30px;">
+  <div>
+    <b>Oh Sunghan 오성한</b>, Master's Student<br>
+    Enrollment: March 2026
+  </div>
+</div>
 
 + **Lee Jiyoon**, Undergraduate Student  
   Enrollment: March 2026

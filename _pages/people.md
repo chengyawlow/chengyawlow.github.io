@@ -26,7 +26,7 @@ author_profile: true
 <div style="display:flex; align-items:center; margin-bottom:10px;">
   <img src="/images/leah.jpg" width="120" style="margin-right:30px;">
   <div>
-    <b>Lei, Han</b>, Master's Student<br>
+    <b>Lei, Han 뇌한</b>, Master's Student<br>
     Enrollment: March 2026
   </div>
 </div>
@@ -54,6 +54,23 @@ author_profile: true
     Enrollment: March 2026
   </div>
 </div>
+
+<div style="display:flex; align-items:center; margin-bottom:10px;">
+  <img src="/images/hh_won.jpg" width="120" style="margin-right:30px;">
+  <div>
+    <b>Won, Hual Hual 원활활</b>, Undergraduate Student<br>
+    Enrollment: June 2026
+  </div>
+</div>
+
+<div style="display:flex; align-items:center; margin-bottom:10px;">
+  <img src="/images/hg_jang.jpg" width="120" style="margin-right:30px;">
+  <div>
+    <b>Jang, Hangyeol 장한결</b>, Undergraduate Student<br>
+    Enrollment: June 2026
+  </div>
+</div>
+
 
 
 + **Open Positions** - The RAISE Lab welcomes motivated postdoctoral researchers, Ph.D. students, Master’s students, and research interns (Contact: chengyawlow@changwon.ac.kr).

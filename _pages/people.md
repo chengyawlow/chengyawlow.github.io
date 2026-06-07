@@ -26,7 +26,7 @@ author_profile: true
 <div style="display:flex; align-items:center; margin-bottom:20px;">
   <img src="/images/leah.jpg" width="120" style="margin-right:30px;">
   <div>
-    <b>Lei, Han 뇌한</b>, Master's Student<br>
+    <b>Lei, Han</b>, Master's Student<br>
     Enrollment: March 2026
   </div>
 </div>
@@ -34,7 +34,7 @@ author_profile: true
 <div style="display:flex; align-items:center; margin-bottom:20px;">
   <img src="/images/sh_oh.jpg" width="120" style="margin-right:30px;">
   <div>
-    <b>Oh, Sunghan 오성한</b>, Master's Student<br>
+    <b>Oh, Sunghan</b>, Master's Student<br>
     Enrollment: March 2026
   </div>
 </div>
@@ -42,7 +42,7 @@ author_profile: true
 <div style="display:flex; align-items:center; margin-bottom:20px;">
   <img src="/images/jy_lee.jpg" width="120" style="margin-right:30px;">
   <div>
-    <b>Lee, Jiyoon 이지윤</b>, Undergraduate Student<br>
+    <b>Lee, Jiyoon</b>, Undergraduate Student<br>
     Enrollment: March 2026
   </div>
 </div>
@@ -58,7 +58,7 @@ author_profile: true
 <div style="display:flex; align-items:center; margin-bottom:20px;">
   <img src="/images/hh_won.jpg" width="120" style="margin-right:30px;">
   <div>
-    <b>Won, Hual Hual 원활활</b>, Undergraduate Student<br>
+    <b>Won, Hual-Hual</b>, Undergraduate Student<br>
     Enrollment: June 2026
   </div>
 </div>

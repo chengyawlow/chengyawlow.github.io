@@ -18,9 +18,9 @@ The **RAISE Lab** is led by Cheng-Yaw Low, Assistant Professor in the Department
 # News
 + **June 17, 2026**: Serving as Guest Editor for two MDPI Special Issues.
   - **Applied Sciences**: [Emerging Trends and Applications in Computer Vision](https://www.mdpi.com/journal/applsci/special_issues/HQ9GNFKJ66)
-    - SCIE & Scopus Indexed / JCR Impact Factor: 2.5 (2024)  
+    - SCIE & Scopus Indexed / JCR Impact Factor: 2.9 (2025)  
   - **Technologies**: [Advanced Technologies in Computer Vision and Applications](https://www.mdpi.com/journal/technologies/special_issues/K1W5M12796)
-    - Web of Science ESCI & Scopus Indexed / JCR Impact Factor: 3.6 (2024)  
+    - Web of Science ESCI & Scopus Indexed / JCR Impact Factor: 5.2 (2025)  
 + **May 27-29, 2026**: Delivered an Invited Talk at University of Nottingham Ningbo China.
 + **May 01, 2026**: Our work has been accepted to ICML 2026.
   - Paper Title: Textual Supervision Enhances Geospatial Representations in Vision-Language Models

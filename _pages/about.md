@@ -16,6 +16,14 @@ The **RAISE Lab** is led by Cheng-Yaw Low, Assistant Professor in the Department
 + **Emerging Directions:** <u>Ecological AI</u> for biodiversity conservation and environmental monitoring; <u>geospatial AI</u> for spatiotemporal modeling and Earth observation; <u>maritime AI</u> for maritime security using remote sensing and multimodal perception; <u>responsible AI</u> learning frameworks (FATE principles with robustness) for real-world deployment.
 
 # News
++ **June, 2026**: Serving as Guest Editor for two MDPI Special Issues.
+  - **Applied Sciences (MDPI)**  
+  SCIE & Scopus indexed; JCR Impact Factor: 2.5 (2024).  
+  🔗 [Special Issue Website](https://www.mdpi.com/journal/applsci/special_issues/HQ9GNFKJ66)
+  - **Technologies (MDPI)**  
+  Web of Science (ESCI) & Scopus indexed; JCR Impact Factor: 3.6 (2024); JCR Q1 (Engineering, Multidisciplinary).  
+  🔗 [Special Issue Website](https://www.mdpi.com/journal/technologies/special_issues/K1W5M12796)
+  - 
 + **May 27-29, 2026**: Delivered an Invited Talk at University of Nottingham Ningbo China.
 + **May 01, 2026**: Our work has been accepted to ICML 2026.
   - Paper Title: Textual Supervision Enhances Geospatial Representations in Vision-Language Models

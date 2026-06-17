@@ -16,7 +16,7 @@ The **RAISE Lab** is led by Cheng-Yaw Low, Assistant Professor in the Department
 + **Emerging Directions:** <u>Ecological AI</u> for biodiversity conservation and environmental monitoring; <u>geospatial AI</u> for spatiotemporal modeling and Earth observation; <u>maritime AI</u> for maritime security using remote sensing and multimodal perception; <u>responsible AI</u> learning frameworks (FATE principles with robustness) for real-world deployment.
 
 # News
-+ **June, 2026**: Serving as Guest Editor for two MDPI Special Issues.
++ **June 17, 2026**: Serving as Guest Editor for two MDPI Special Issues.
   - **Applied Sciences**: [Emerging Trends and Applications in Computer Vision](https://www.mdpi.com/journal/applsci/special_issues/HQ9GNFKJ66)
     - SCIE & Scopus Indexed / JCR Impact Factor: 2.5 (2024)  
   - **Technologies**: [Advanced Technologies in Computer Vision and Applications](https://www.mdpi.com/journal/technologies/special_issues/K1W5M12796)

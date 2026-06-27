@@ -89,4 +89,4 @@ author_profile: true
 
 + [**Prof. Meeyoung Cha 차미영**](https://www.mpi-sp.org/cha) &nbsp; • &nbsp; Scientific Director &nbsp; • &nbsp; Max Planck Institute for Security and Privacy (MPI-SP), Germany 
   
-+ [**Prof. Andrew Beng Jin Teoh**](https://ee.yonsei.ac.kr/faculty/member.do?mode=view&userId=PNDOpHWNFR2NJhjZkX8ROA%3D%3D) &nbsp; • Professor &nbsp; • &nbsp; Yonsei University, Republic of Korea 
++ [**Prof. Andrew Beng Jin Teoh**](https://ee.yonsei.ac.kr/faculty/member.do?mode=view&userId=PNDOpHWNFR2NJhjZkX8ROA%3D%3D) &nbsp; • &nbsp; Professor &nbsp; • &nbsp; Yonsei University, Republic of Korea 

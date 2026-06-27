@@ -50,7 +50,7 @@ author_profile: true
 <div style="display:flex; align-items:center; margin-bottom:20px;">
   <img src="/images/hg_jang.jpg" width="120" style="margin-right:30px;">
   <div>
-    <b>Jang, Hangyeol 장한결</b>, Undergraduate Student<br>
+    <b>Jang, Hangyeol</b>, Undergraduate Student<br>
     Enrollment: June 2026
   </div>
 </div>

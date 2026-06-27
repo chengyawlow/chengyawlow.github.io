@@ -7,26 +7,10 @@ author_profile: true
 
 ## Students & Lab Members
 
-<div style="display:flex; align-items:center; margin-top:30px; margin-bottom:20px;">
-  <img src="/images/spark.jpg" width="120" style="margin-right:30px;">
-  <div>
-    <b>Zhang, Ming</b>, Ph.D. Student<br>
-    Enrollment: September 2025
-  </div>
-</div>
-
-<div style="display:flex; align-items:center; margin-bottom:20px;">
-  <img src="/images/jojo.jpeg" width="120" style="margin-right:30px;">
-  <div>
-    <b>Zhang, Qun</b>, Ph.D. Student<br>
-    Enrollment: September 2025
-  </div>
-</div>
-
 <div style="display:flex; align-items:center; margin-bottom:20px;">
   <img src="/images/leah.jpg" width="120" style="margin-right:30px;">
   <div>
-    <b>Lei, Han</b>, Master's Student<br>
+    <b>Lei, Han</b>, Master's Student (Research Track)<br>
     Enrollment: March 2026
   </div>
 </div>
@@ -34,7 +18,7 @@ author_profile: true
 <div style="display:flex; align-items:center; margin-bottom:20px;">
   <img src="/images/sh_oh.jpg" width="120" style="margin-right:30px;">
   <div>
-    <b>Oh, Sunghan</b>, Master's Student<br>
+    <b>Oh, Sunghan</b>, Master's Student (Researach Track)<br>
     Enrollment: March 2026
   </div>
 </div>
@@ -70,6 +54,12 @@ author_profile: true
     Enrollment: June 2026
   </div>
 </div>
+
++ **Zhang Ming**, Ph.D. Student (Global AI Track)  
+  Enrollment: September 2025
+
++ **Zhang Jun**, Ph.D. Student (Global AI Track)    
+  Enrollment: September 2025
 
 + **Open Positions** - The RAISE Lab welcomes motivated postdoctoral researchers, Ph.D. students, Master’s students, and research interns (Contact: chengyawlow@changwon.ac.kr).
   

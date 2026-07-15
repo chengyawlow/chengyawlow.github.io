@@ -51,6 +51,10 @@ Talks
 
 -->
 
++ **Semester 2, 2026**
+  + [ Undergraduate ] Probability and Statistics 확률통계 
+  + [ Graduate ] Computer Vision 컴퓨터비전 
+
 + **Semester 1, 2026**
   + [ Undergraduate ] Introduction to Artificial Intelligence for Science & Engineering 자연공학계열을위한인공지능입문 
   + [ Undergraduate ] Understanding Machine Learning 머신러닝이해

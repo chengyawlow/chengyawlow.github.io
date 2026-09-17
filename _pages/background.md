@@ -81,7 +81,11 @@ author_profile: true
 
 # Awards 
 
-+ Recipeint of the 3MT People’s Choice Award,
++ Winning Team (Team Name: CWNU AIX), 
+  <a href="https://cv4e.netlify.app/papers/" target="_blank" rel="noopener noreferrer">
+    Computer Vision for Ecology Challenge, ECCV 2026
+  </a>
++ Recipient of the 3MT People’s Choice Award,
   <a href="https://sites.google.com/view/globalsouthai-aaai-26/home" target="_blank" rel="noopener noreferrer">
     Empowering Global South AI, AAAI 2026
   </a>

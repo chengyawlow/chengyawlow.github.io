@@ -6,19 +6,17 @@ author_profile: true
 ---
 
 <!-- <span style="font-size: smaller;">(Five selected journal/conference articles published in recent five years, sorted by publication date.)</span> -->
-List of <u>selected</u> journal & conference research articles published in recent five (5) years, sorted by publication date.
+List of five (5) <u>selected</u> journal and conference research articles published in the recent five (5) years, sorted by publication date.
+
++ **Cheng-Yaw Low**, Heejoon Koo, Jaewoo Park, Meeyoung Cha, "[Dual-Margin Embedding for Fine-Grained Long-Tailed Plant Taxonomy](https://link.springer.com/chapter/10.1007/978-3-032-37196-6_29)," in Proc. the 19th European Conference on Computer Vision (ECCV), pp. 535–552, Sep. 2026, doi: 10.1007/978-3-032-37196-6_29.
+
++ Marcelo Sartori Locatelli, Fernando Tonucci, Jea Kwon, Luiz Felipe Vecchietti, Bryan Nathanael Wijaya, **Cheng-Yaw Low**, Virgilio Almeida, Meeyoung Cha, "[Textual Supervision Enhances Geospatial Representations in Vision-Language Models](https://arxiv.org/abs/2606.07172)," in Proc. the 43rd International Conference on Machine Learning (ICML), July 2026.
+
++ Ivan DeAndres-Tame et al., including **Cheng-Yaw Low**, "[Second FRCSyn-onGoing: Winning Solutions and Post-Challenge Analysis to Improve Face Recognition with Synthetic Data](https://www.sciencedirect.com/science/article/pii/S1566253525001721)," Information Fusion, vol. 120, Art. no. 103099, Aug. 2025, doi: 10.1016/j.inffus.2025.103099.
+
++ Kyeongjin Ahn, Seungeon Lee, Sungwon Han, **Cheng-Yaw Low**, Meeyoung Cha, "[Uncertainty-Aware Face Embedding with Contrastive Learning for Open-Set Evaluation](https://ieeexplore.ieee.org/document/10595448/)," IEEE Transactions on Information Forensics and Security, vol. 19, pp. 7176–7186, July 2024, doi: 10.1109/TIFS.2024.3426973.
 
 + **Cheng-Yaw Low**, Jacky Chen Long Chai, Jaewoo Park, Kyeongjin An, Meeyoung Cha, "[SlackedFace: Learning a Slacked Margin for Low-Resolution Face Recognition](https://papers.bmvc2023.org/0282.pdf)," in Proc. the 34th British Machine Vision Conference (BMVC), Nov. 2023.
-  
-+ Jacky Chen Long Chai, Tiong Sik Ng, **Cheng-Yaw Low**, Jaewoo Park, Andrew Beng Jin Teoh, "[Recognizability Embedding Enhancement for Very Low-Resolution Face Recognition and Quality Estimation](http://openaccess.thecvf.com/content/CVPR2023/html/Chai_Recognizability_Embedding_Enhancement_for_Very_Low-Resolution_Face_Recognition_and_Quality_CVPR_2023_paper.html)," in Proc. the IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), pp. 9957-9967, June 2023.
-
-+ **Cheng-Yaw Low**, Andrew Beng Jin Teoh, "[An Implicit Identity-Extended Data Augmentation for Low-Resolution Face Representation Learning](https://ieeexplore.ieee.org/abstract/document/9865993/)," IEEE Transactions on Information Forensics and Security (JCR IF 6.8), vol. 17, pp. 3062-3076, Aug. 2022, doi: 10.1109/TIFS.2022.3201374.
-
-+ Jaewoo Park, **Cheng-Yaw Low**, Andrew Beng Jin Teoh, "[Divergent Angular Representation for Open-Set Image Recognition](https://ieeexplore.ieee.org/abstract/document/9627592/)," IEEE Transactions on Image Processing (JCR IF 10.6), vol. 31, pp. 176-189, Nov. 2021, doi: 10.1109/TIP.2021.3128318.
-  
-+ **Cheng-Yaw Low**, Andrew Beng Jin Teoh, and Jaewoo Park, "[Stacking-Based Deep Neural Networks Deep Analytic Network for Pattern Classification](https://ieeexplore.ieee.org/abstract/document/8694849/)," IEEE Transactions on Cybernetics (JCR IF 11.8), vol. 50, no. 12, pp. 5021-5034, Dec. 2020, doi: 10.1109/TCYB.2019.2908387.
-
-+ **Cheng-Yaw Low**, Andrew Beng Jin Teoh, and Cong Jie Ng, "[Multi-Fold Gabor, PCA, ICA Filter Convolution Descriptor for Face Recognition](https://ieeexplore.ieee.org/abstract/document/8063938/)," IEEE Transactions on Circuits and Systems for Video Technology (JCR IF 8.4), vol. 29(1), pp. 115-129, Jan. 2019, doi: 10.1109/TCSVT.2017.2761829.
 
 # Publication List
 A complete list of publications is available on my <a href="https://scholar.google.com/citations?user=NgRN_6kAAAAJ&hl=en">Google Scholar</a>.

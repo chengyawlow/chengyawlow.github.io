@@ -7,6 +7,12 @@ author_profile: true
 
 List of invited & visiting talks and conference presentations in recent three (3) years, sorted by date.
 
++ **[Dual-Margin Embedding for Fine-Grained Long-Tailed Plant Taxonomy](https://link.springer.com/chapter/10.1007/978-3-032-37196-6_29)**<br>
+  <u>Conference Presentation (Poster)</u>, the European Conference on Computer Vision (ECCV), Malmö, September 2026.
+
++ **When Foundation Models Fall Short: Insights from Ecological AI**<br>
+  <u>Visiting Talk</u>, Max Planck Institute for Security and Privacy (MPI-SP), Sep. 03-08, 2026.
+
 + **When Foundation Models Fall Short: Insights from Ecological AI**<br>
   <u>Invited Talk</u>, Public Lecture, University of Nottingham Ningbo China, May 27-29, 2026.
   
@@ -19,7 +25,7 @@ List of invited & visiting talks and conference presentations in recent three (3
 + **Ensuring Privacy and Fairness: Face Recognition in the Era of Synthetic Data**<br>
   <u>Invited Talk</u>, Special Lecture Series in AI, Seoul National University of Science and Technology (SeoulTech), South Korea, Sep. 23, 2024.
 
-+ **[Face Recognition Challenge in the Era of Synthetic Data](https://openaccess.thecvf.com/content/WACV2024W/FRCSyn/papers/Melzi_FRCSyn_Challenge_at_WACV_2024_Face_Recognition_Challenge_in_the_WACVW_2024_paper.pdf)**<br>
++ **[Face Recognition Challenge in the Era of Synthetic Data](https://ieeexplore.ieee.org/abstract/document/10678240)**<br>
   <u>Conference Presentation (Oral)</u>, the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, June 2024.
   
 + **Ensuring Privacy and Fairness: Face Recognition in the Era of Synthetic Data**<br>

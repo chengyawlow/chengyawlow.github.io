@@ -8,7 +8,7 @@ author_profile: true
 <!-- <span style="font-size: smaller;">(Five selected journal/conference articles published in recent five years, sorted by publication date.)</span> -->
 List of five (5) <u>selected</u> journal and conference research articles published in the recent five (5) years, sorted by publication date.
 
-+ **Cheng-Yaw Low**, Heejoon Koo, Jaewoo Park, Meeyoung Cha, "[Dual-Margin Embedding for Fine-Grained Long-Tailed Plant Taxonomy](https://link.springer.com/chapter/10.1007/978-3-032-37196-6_29)," in Proc. the 19th European Conference on Computer Vision (ECCV), pp. 535–552, Sep. 2026, doi: 10.1007/978-3-032-37196-6_29.
++ **Cheng-Yaw Low**, Heejoon Koo, Jaewoo Park, Meeyoung Cha, "[Dual-Margin Embedding for Fine-Grained Long-Tailed Plant Taxonomy](https://link.springer.com/chapter/10.1007/978-3-032-37196-6_29)," in Proc. the 19th European Conference on Computer Vision (ECCV), pp. 535–552, Sep. 2026.
 
 + Marcelo Sartori Locatelli, Fernando Tonucci, Jea Kwon, Luiz Felipe Vecchietti, Bryan Nathanael Wijaya, **Cheng-Yaw Low**, Virgilio Almeida, Meeyoung Cha, "[Textual Supervision Enhances Geospatial Representations in Vision-Language Models](https://arxiv.org/abs/2606.07172)," in Proc. the 43rd International Conference on Machine Learning (ICML), July 2026.
 

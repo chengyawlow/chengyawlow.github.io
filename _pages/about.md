@@ -16,6 +16,10 @@ The **RAISE Lab** is led by Cheng-Yaw Low, Assistant Professor in the Department
 + **Emerging Directions:** <u>Ecological AI</u> for biodiversity conservation and environmental monitoring; <u>geospatial AI</u> for spatiotemporal modeling and Earth observation; <u>maritime AI</u> for maritime security using remote sensing and multimodal perception; <u>responsible AI</u> learning frameworks (FATE principles with robustness) for real-world deployment.
 
 # News
++ **Sep. 09, 2026**: Presented our work at ECCV 2026 in Malmö, Sweden
+  - Paper Title: [Dual-Margin Embedding for Fine-Grained Long-Tailed Plant Taxonomy](https://link.springer.com/chapter/10.1007/978-3-032-37196-6_29) 
++ **Sep. 07, 2026**: Delivered an Invited Talk at Max Planck Institute for Security and Privacy (MPI-SP), Germany
+  - Paper Title: Dual-Margin Embedding for Fine-Grained Long-Tailed Plant Taxonomy
 + **June 18, 2026**: Our work has been accepted to ECCV 2026.
   - Paper Title: Dual-Margin Embedding for Fine-Grained Long-Tailed Plant Taxonomy
 + **June 17, 2026**: Serving as Guest Editor for two MDPI Special Issues.

@@ -58,13 +58,73 @@ The **RAISE Lab** is led by Cheng-Yaw Low, Assistant Professor in the Department
 + **Apr. 11, 2024**: Securing a position as one of the winning teams in the [Face Recognition Challenge in the Era of Synthetic Data](https://codalab.lisn.upsaclay.fr/competitions/16970), held in conjunction with the IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2024.
 + **Feb. 01, 2024**: Our journal article has been published in the IEEE TIFS (SCIE, IF 6.3).
   - Paper Title: [Self-Attentive Contrastive Learning for Conditioned Periocular and Face Biometrics](https://ieeexplore.ieee.org/document/10418204)
- 
+
 <details>
 <summary><strong>Prior to 2023</strong></summary>
 
 <ul>
   <li>
-    <strong>Dec. 20–22, 2023</strong>: Attended KSC 2023 (represented by undergraduate intern Kaleb Asfaw) for an oral presentation.<br>
+    <strong>Nov. 22, 2024</strong>: Accepted a position at the Max Planck Institute for Security and Privacy (MPI-SP), Germany, beginning in February 2025.
+  </li>
+
+  <li>
+    <strong>Sep. 23, 2024</strong>: Delivered an invited talk as part of the Special Lecture Series in AI at Seoul National University of Science and Technology (SeoulTech), South Korea.<br>
+    Talk Title: Ensuring Privacy and Fairness: Face Recognition in the Era of Synthetic Data
+  </li>
+
+  <li>
+    <strong>Sep. 7, 2024</strong>: Recognized as one of the winning teams in the
+    <a href="https://eval.ai/web/challenges/challenge-page/2292/overview">
+      Computer Vision for Ecology – Marine Species Classification Challenge
+    </a>,
+    held in conjunction with ECCV 2024.
+  </li>
+
+  <li>
+    <strong>June 25, 2024</strong>: Our journal article was accepted for publication in IEEE Transactions on Information Forensics and Security (TIFS).<br>
+    Paper Title: Uncertainty-Aware Face Embedding with Contrastive Learning for Open-Set Evaluation
+  </li>
+
+  <li>
+    <strong>June 18, 2024</strong>: Attended CVPR 2024 for an oral presentation.<br>
+    Paper Title:
+    <a href="https://openaccess.thecvf.com/content/WACV2024W/FRCSyn/papers/Melzi_FRCSyn_Challenge_at_WACV_2024_Face_Recognition_Challenge_in_the_WACVW_2024_paper.pdf">
+      Face Recognition Challenge in the Era of Synthetic Data
+    </a>
+  </li>
+
+  <li>
+    <strong>May 13, 2024</strong>: Delivered an invited online talk at Anhui University, China.<br>
+    Talk Title: Ensuring Privacy and Fairness: Face Recognition in the Era of Synthetic Data
+  </li>
+
+  <li>
+    <strong>May 2, 2024</strong>: Visited the Max Planck Institute for Security and Privacy in Bochum, Germany, and delivered a talk.<br>
+    Talk Title: Unlocking Fairness: Progressing Beyond Bias in Generative Models
+  </li>
+
+  <li>
+    <strong>Apr. 29, 2024</strong>: Attended the Machine Behavior Conference in Berlin, Germany.
+  </li>
+
+  <li>
+    <strong>Apr. 11, 2024</strong>: Recognized as one of the winning teams in the
+    <a href="https://codalab.lisn.upsaclay.fr/competitions/16970">
+      Face Recognition Challenge in the Era of Synthetic Data
+    </a>,
+    held in conjunction with CVPR 2024.
+  </li>
+
+  <li>
+    <strong>Feb. 1, 2024</strong>: Our journal article was published in IEEE Transactions on Information Forensics and Security (TIFS).<br>
+    Paper Title:
+    <a href="https://ieeexplore.ieee.org/document/10418204">
+      Self-Attentive Contrastive Learning for Conditioned Periocular and Face Biometrics
+    </a>
+  </li>
+
+  <li>
+    <strong>Dec. 20–22, 2023</strong>: Presented a paper at KSC 2023, represented by undergraduate intern Kaleb Asfaw.<br>
     Paper Title:
     <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11705225">
       Relaxing Gender Constraint for Identity-Consistent Face Synthesis
@@ -77,7 +137,7 @@ The **RAISE Lab** is led by Cheng-Yaw Low, Assistant Professor in the Department
   </li>
 
   <li>
-    <strong>Nov. 20–24, 2023</strong>: Attended BMVC 2023 for an oral presentation.<br>
+    <strong>Nov. 20–24, 2023</strong>: Attended BMVC 2023 and delivered an oral presentation.<br>
     Paper Title:
     <a href="https://papers.bmvc2023.org/0282.pdf">
       SlackedFace: Learning a Slacked Margin for Low-Resolution Face Recognition
@@ -85,12 +145,12 @@ The **RAISE Lab** is led by Cheng-Yaw Low, Assistant Professor in the Department
   </li>
 
   <li>
-    <strong>Nov. 03, 2023</strong>: Delivered a talk in the KAIST Urban X Seminar Series.<br>
+    <strong>Nov. 3, 2023</strong>: Delivered a talk in the KAIST Urban X Seminar Series.<br>
     Talk Title: Cultivating Greener Cities: Unveiling the Power of Forest Biometrics in Urbanization
   </li>
 
   <li>
-    <strong>June 18–22, 2023</strong>: Attended CVPR 2023 for a poster presentation.<br>
+    <strong>June 18–22, 2023</strong>: Attended CVPR 2023 and presented a poster.<br>
     Paper Title:
     <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Chai_Recognizability_Embedding_Enhancement_for_Very_Low-Resolution_Face_Recognition_and_Quality_CVPR_2023_paper.pdf">
       Recognizability Embedding Enhancement for Very Low-Resolution Face Recognition and Quality Estimation

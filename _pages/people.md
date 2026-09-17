@@ -61,7 +61,7 @@ author_profile: true
 + **Zhang Jun**, Ph.D. Student (Global AI Track)    
   Enrollment: September 2025
 
-+ **Open Positions** - The RAISE Lab welcomes motivated postdoctoral researchers, Ph.D. students, Master’s students, and research interns (Contact: chengyawlow@changwon.ac.kr).
++ **Open Positions** - The RAISE Lab welcomes motivated postdoctoral researchers, Ph.D. students, Master’s students, and research interns. Preference will be given to candidates proficient in both Korean and English. For inquiries, (Contact: chengyawlow@changwon.ac.kr).
   
 <!--
 + **Zhang Ming**, Ph.D. Student  

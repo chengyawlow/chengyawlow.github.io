@@ -61,7 +61,7 @@ author_profile: true
 + **Zhang Jun**, Ph.D. Student (Global AI Track)    
   Enrollment: September 2025
 
-+ **Xie Jin Chi**, Ph.D. Student (Global AI Track)    
++ **Xie Jin Chi**, Integrated Master's and Ph.D. (Global AI Track)    
   Enrollment: September 2026
 
 + **Zhang Sheng Feng**, Ph.D. Student (Global AI Track)    

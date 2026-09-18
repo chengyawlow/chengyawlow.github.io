@@ -73,7 +73,7 @@ author_profile: true
 + **Hu Zhao Wei**, Integrated Master's and Ph.D. Student (Global AI Track)    
   Enrollment: September 2026
 
-+ **Open Positions** - The RAISE Lab welcomes motivated postdoctoral researchers, Ph.D. students, Master’s students, and research interns. Preference will be given to candidates proficient in both Korean and English. For inquiries, (Contact: chengyawlow@changwon.ac.kr).
++ **Open Positions** - The RAISE Lab welcomes motivated postdoctoral researchers, Ph.D. students, Master’s students, and research interns (Contact: chengyawlow@changwon.ac.kr). Preference will be given to candidates proficient in both Korean and English.
   
 <!--
 + **Zhang Ming**, Ph.D. Student  

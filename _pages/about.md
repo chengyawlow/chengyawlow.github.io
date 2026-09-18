@@ -17,7 +17,8 @@ The **RAISE Lab** is led by Cheng-Yaw Low, Assistant Professor in the Department
 
 # News
 + **Sep. 09, 2026**: Presented our work at ECCV 2026 in Malmö, Sweden
-  - Paper Title: [Dual-Margin Embedding for Fine-Grained Long-Tailed Plant Taxonomy](https://link.springer.com/chapter/10.1007/978-3-032-37196-6_29) 
+  - Paper Title: [Dual-Margin Embedding for Fine-Grained Long-Tailed Plant Taxonomy](https://link.springer.com/chapter/10.1007/978-3-032-37196-6_29)
++ **Sep. 08, 2026**: Recognized as one of the winning teams (CWNU AIX) in the [Computer Vision for Ecology (CV4E) Challenge](https://cv4e-workshop.github.io/) at ECCV 2026 in Malmö, Sweden
 + **Sep. 07, 2026**: Delivered an Invited Talk at Max Planck Institute for Security and Privacy (MPI-SP), Germany
   - Paper Title: Dual-Margin Embedding for Fine-Grained Long-Tailed Plant Taxonomy
 + **June 18, 2026**: Our work has been accepted to ECCV 2026.

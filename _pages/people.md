@@ -63,22 +63,22 @@ author_profile: true
   </div>
 </div>
 
-+ **Zhang Ming**, Ph.D. Student (Global AI Track)  
++ **Zhang, Ming**, Ph.D. Student (Global AI Track)  
   Enrollment: September 2025
 
-+ **Zhang Jun**, Ph.D. Student (Global AI Track)    
++ **Zhang, Jun**, Ph.D. Student (Global AI Track)    
   Enrollment: September 2025
 
-+ **Xie Jin Chi**, Integrated Master's and Ph.D. (Global AI Track)    
++ **Xie, Jin Chi**, Integrated Master's and Ph.D. (Global AI Track)    
   Enrollment: September 2026
 
-+ **Zhang Sheng Feng**, Ph.D. Student (Global AI Track)    
++ **Zhang, Sheng Feng**, Ph.D. Student (Global AI Track)    
   Enrollment: September 2026
 
-+ **Lan Bin**, Ph.D. Student (Global AI Track)    
++ **Lan, Bin**, Ph.D. Student (Global AI Track)    
   Enrollment: September 2026
 
-+ **Hu Zhao Wei**, Integrated Master's and Ph.D. Student (Global AI Track)    
++ **Hu, Zhao Wei**, Integrated Master's and Ph.D. Student (Global AI Track)    
   Enrollment: September 2026
 
 + **Open Positions** - The RAISE Lab welcomes motivated postdoctoral researchers, Ph.D. students, Master’s students, and research interns (Contact: chengyawlow@changwon.ac.kr). Preference will be given to candidates proficient in both Korean and English.

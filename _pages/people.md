@@ -55,6 +55,14 @@ author_profile: true
   </div>
 </div>
 
+<div style="display:flex; align-items:center; margin-bottom:20px;">
+  <img src="/images/jb_seon.jpg" width="120" style="margin-right:30px;">
+  <div>
+    <b>Seon, Joonbeen</b>, Undergraduate Student<br>
+    Enrollment: September 2026
+  </div>
+</div>
+
 + **Zhang Ming**, Ph.D. Student (Global AI Track)  
   Enrollment: September 2025
 
